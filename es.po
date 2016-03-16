@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Hispanogi\n"
-"POT-Creation-Date: 2016-03-14 15:28-0400\n"
-"PO-Revision-Date: 2016-03-14 15:59-0400\n"
+"POT-Creation-Date: 2016-03-16 09:38-0400\n"
+"PO-Revision-Date: 2016-03-16 10:33-0400\n"
 "Last-Translator: Arufonsu\n"
 "Language-Team: \n"
 "Language: es\n"
@@ -18,7 +18,7 @@ msgstr ""
 "LN:1,2;LX:1c,2;LXN:1c,2,3\n"
 "X-Poedit-SearchPath-0: .\n"
 
-#: src/ChannelServer/ChannelServer.cs:364
+#: src/ChannelServer/ChannelServer.cs:365
 #, csharp-format
 msgid ""
 "The server will be brought down for maintenance in {0} second. Please log "
@@ -276,24 +276,24 @@ msgstr "Intercambiar no es posible aun."
 
 #: src/ChannelServer/Network/Sending/Send.Messages.cs:27
 msgid "<SYSTEM>"
-msgstr ""
+msgstr "<SISTEMA>"
 
 #: src/ChannelServer/Network/Sending/Send.Messages.cs:38
 msgid "<SERVER>"
-msgstr ""
+msgstr "<SERVIDOR>"
 
 #: src/ChannelServer/Network/Sending/Send.Messages.cs:69
 msgid "<COMBAT>"
-msgstr ""
+msgstr "<COMBATE>"
 
 #: src/ChannelServer/Network/Sending/Send.Messages.cs:179
 msgid "<PARTY>"
-msgstr ""
+msgstr "<GRUPO>"
 
 #: src/ChannelServer/Network/Sending/Send.Messages.cs:180
 #, csharp-format
 msgid "[Wanted] {0}: [{1}/{2}] - {3}"
-msgstr ""
+msgstr "[Se Busca] {0}: [{1}/{2}] - {3}"
 
 #: src/ChannelServer/Scripting/Scripts/ItemScript.cs:186
 #, csharp-format
@@ -1936,22 +1936,22 @@ msgstr "Tus piernas están mas grande."
 msgid "Your legs got slimmer."
 msgstr "Tus piernas están mas delgadas."
 
-#: src/ChannelServer/World/Entities/Creature.cs:1849
-#: src/ChannelServer/World/Entities/Creature.cs:1850
+#: src/ChannelServer/World/Entities/Creature.cs:1847
+#: src/ChannelServer/World/Entities/Creature.cs:1848
 msgid "Huge Lucky Finish!!"
 msgstr "¡Final Afortunado Gigantesco!"
 
-#: src/ChannelServer/World/Entities/Creature.cs:1858
-#: src/ChannelServer/World/Entities/Creature.cs:1859
+#: src/ChannelServer/World/Entities/Creature.cs:1856
+#: src/ChannelServer/World/Entities/Creature.cs:1857
 msgid "Big Lucky Finish!!"
 msgstr "¡Gran Final Afortunado!"
 
-#: src/ChannelServer/World/Entities/Creature.cs:1867
-#: src/ChannelServer/World/Entities/Creature.cs:1868
+#: src/ChannelServer/World/Entities/Creature.cs:1865
+#: src/ChannelServer/World/Entities/Creature.cs:1866
 msgid "Lucky Finish!!"
 msgstr "¡Final Afortunado!"
 
-#: src/ChannelServer/World/Entities/Creature.cs:2164
+#: src/ChannelServer/World/Entities/Creature.cs:2162
 msgid "Insufficient EXP."
 msgstr "EXP insuficiente."
 
@@ -3065,20 +3065,20 @@ msgstr ""
 #: system/scripts/npcs/tir/piaras.cs:39
 #: system/scripts/npcs/tir_na_nog/dougal.cs:50
 msgid "Start a Conversation"
-msgstr ""
+msgstr "Iniciar Conversación"
 
 #: system/scripts/npcs/bangor/bryce.cs:47
 #: system/scripts/npcs/dunbarton/austeyn.cs:45
 #: system/scripts/npcs/tir/bebhinn.cs:42
 msgid "Open My Account"
-msgstr ""
+msgstr "Abrir mi cuenta"
 
 #: system/scripts/npcs/bangor/bryce.cs:47
 #: system/scripts/npcs/bangor/bryce.cs:67
 #: system/scripts/npcs/dunbarton/austeyn.cs:45
 #: system/scripts/npcs/tir/bebhinn.cs:42
 msgid "Redeem Coupon"
-msgstr ""
+msgstr "Canjear cupón"
 
 #: system/scripts/npcs/bangor/bryce.cs:47
 #: system/scripts/npcs/bangor/comgan.cs:45
@@ -3105,7 +3105,7 @@ msgstr ""
 #: system/scripts/npcs/tir/nora.cs:45 system/scripts/npcs/tir/piaras.cs:39
 #: system/scripts/npcs/tir/ranald.cs:39 system/scripts/npcs/tir/trefor.cs:44
 msgid "Shop"
-msgstr ""
+msgstr "Tienda"
 
 #: system/scripts/npcs/bangor/bryce.cs:56
 msgid ""
@@ -3126,7 +3126,7 @@ msgstr ""
 #: system/scripts/npcs/bangor/bryce.cs:67
 #: system/scripts/npcs/dunbarton/austeyn.cs:58
 msgid "Enter Coupon Number"
-msgstr ""
+msgstr "Escribe numero del cupón."
 
 #: system/scripts/npcs/bangor/bryce.cs:75
 msgid ""
@@ -3138,7 +3138,7 @@ msgstr ""
 #: system/scripts/npcs/dunbarton/austeyn.cs:71
 #: system/scripts/npcs/tir/bebhinn.cs:72
 msgid "There you go, have a nice day."
-msgstr ""
+msgstr "Allí tienes, que tengas un buen día."
 
 #: system/scripts/npcs/bangor/bryce.cs:85
 msgid ""
@@ -3168,6 +3168,8 @@ msgstr ""
 #: system/scripts/npcs/gairech/seumas.cs:67
 msgid "Thank you, <npcname/>. I'll see you later!"
 msgstr ""
+"Gracias, <npcname/>. \n"
+"¡Nos vemos!"
 
 #: system/scripts/npcs/bangor/bryce.cs:98
 msgid ""
@@ -4402,7 +4404,7 @@ msgstr ""
 #: system/scripts/npcs/tir/ferghus.cs:46 system/scripts/npcs/tir/lassar.cs:47
 #: system/scripts/npcs/tir/malcolm.cs:42 system/scripts/npcs/tir/nora.cs:45
 msgid "Repair Item"
-msgstr ""
+msgstr "Reparar objeto"
 
 #: system/scripts/npcs/bangor/edern.cs:48 system/scripts/npcs/bangor/elen.cs:46
 #: system/scripts/npcs/bangor/gilmore.cs:45
@@ -4414,7 +4416,7 @@ msgstr ""
 #: system/scripts/npcs/tir/deian.cs:47 system/scripts/npcs/tir/endelyon.cs:38
 #: system/scripts/npcs/tir/ferghus.cs:46 system/scripts/npcs/tir/ranald.cs:39
 msgid "Modify Item"
-msgstr ""
+msgstr "Modificar objeto"
 
 #: system/scripts/npcs/bangor/edern.cs:56
 msgid ""
@@ -5915,7 +5917,7 @@ msgstr ""
 #: system/scripts/npcs/tir/malcolm.cs:449
 #: system/scripts/npcs/tir/malcolm.cs:452
 msgid "General Goods"
-msgstr ""
+msgstr "Objetos generales"
 
 #: system/scripts/npcs/bangor/gilmore.cs:269
 #: system/scripts/npcs/bangor/gilmore.cs:270
@@ -5968,7 +5970,7 @@ msgstr ""
 #: system/scripts/npcs/bangor/gilmore.cs:322
 #: system/scripts/npcs/bangor/gilmore.cs:323
 msgid "Blacksmith"
-msgstr ""
+msgstr "Herrería"
 
 #: system/scripts/npcs/bangor/gilmore.cs:326
 #: system/scripts/npcs/bangor/gilmore.cs:327
@@ -5983,7 +5985,7 @@ msgstr ""
 #: system/scripts/npcs/bangor/gilmore.cs:336
 #: system/scripts/npcs/bangor/gilmore.cs:337
 msgid "Clothing"
-msgstr ""
+msgstr "Ropas"
 
 #: system/scripts/npcs/bangor/gilmore.cs:339
 #: system/scripts/npcs/bangor/gilmore.cs:340
@@ -6024,7 +6026,7 @@ msgstr ""
 #: system/scripts/npcs/tir/piaras.cs:340 system/scripts/npcs/tir/piaras.cs:341
 #: system/scripts/npcs/tir/piaras.cs:342
 msgid "Gift"
-msgstr ""
+msgstr "Regalos"
 
 #: system/scripts/npcs/bangor/gilmore.cs:345
 #: system/scripts/npcs/bangor/jenifer.cs:232
@@ -6035,7 +6037,7 @@ msgstr ""
 #: system/scripts/npcs/tir/caitin.cs:423 system/scripts/npcs/tir/ferghus.cs:391
 #: system/scripts/npcs/tir/malcolm.cs:421
 msgid "Event"
-msgstr ""
+msgstr "Evento"
 
 #: system/scripts/npcs/bangor/ibbie.cs:25
 msgid ""
@@ -12860,7 +12862,7 @@ msgstr ""
 #: system/scripts/npcs/tir/nora.cs:320 system/scripts/npcs/tir/nora.cs:321
 #: system/scripts/npcs/tir/nora.cs:322 system/scripts/npcs/tir/nora.cs:323
 msgid "Tailoring"
-msgstr ""
+msgstr "Sastrería"
 
 #: system/scripts/npcs/dunbarton/walter.cs:304
 #: system/scripts/npcs/dunbarton/walter.cs:305
@@ -12899,19 +12901,19 @@ msgstr "Patrones de Costura"
 #: system/scripts/npcs/dunbarton/walter.cs:336
 #: system/scripts/npcs/dunbarton/walter.cs:337
 msgid "Cooking Appliances"
-msgstr ""
+msgstr "Accesorio de cocina"
 
 #: system/scripts/npcs/dungeonlostresident.cs:19
 msgid "My hero! How can I ever repay you for this... How about a reward?"
-msgstr ""
+msgstr "¡Mi héroe! ¿como puedo pagarte?... ¿que tal una recompensa?"
 
 #: system/scripts/npcs/dungeonlostresident.cs:19
 msgid "Some gold maybe?"
-msgstr ""
+msgstr "¿Quizás algo de oro?"
 
 #: system/scripts/npcs/dungeonlostresident.cs:19
 msgid "An item!"
-msgstr ""
+msgstr "Un objeto!"
 
 #: system/scripts/npcs/dungeonlostresident.cs:26
 msgid "Some money? Of course, here you go."
@@ -12923,7 +12925,7 @@ msgstr "Por favor toma esto, puede que te brinde algo de suerte."
 
 #: system/scripts/npcs/dungeonlostresident.cs:39
 msgid "Thank you so much, now let's leave this horrible place..."
-msgstr ""
+msgstr "Muchas gracias, ahora salgamos de éste horrible lugar..."
 
 #: system/scripts/npcs/dungeonlostresident.cs:39
 #: system/scripts/npcs/egos/eiry.cs:20 system/scripts/npcs/nao.cs:57
@@ -12945,7 +12947,7 @@ msgstr "Terminar Conversación"
 #: system/scripts/npcs/egos/wand_female.cs:20
 #: system/scripts/npcs/egos/wand_male.cs:20
 msgid "Talk"
-msgstr ""
+msgstr "Hablar"
 
 #: system/scripts/npcs/egos/blunt_female.cs:20
 #: system/scripts/npcs/egos/blunt_male.cs:20
@@ -12958,7 +12960,7 @@ msgstr ""
 #: system/scripts/npcs/egos/wand_female.cs:20
 #: system/scripts/npcs/egos/wand_male.cs:20
 msgid "Give Item"
-msgstr ""
+msgstr "Dar objeto"
 
 #: system/scripts/npcs/egos/blunt_female.cs:20
 #: system/scripts/npcs/egos/blunt_male.cs:20
@@ -12971,7 +12973,7 @@ msgstr ""
 #: system/scripts/npcs/egos/wand_female.cs:20
 #: system/scripts/npcs/egos/wand_male.cs:20
 msgid "Repair"
-msgstr ""
+msgstr "Reparar"
 
 #: system/scripts/npcs/egos/blunt_female.cs:20
 #: system/scripts/npcs/egos/blunt_male.cs:20
@@ -12984,7 +12986,7 @@ msgstr ""
 #: system/scripts/npcs/egos/wand_female.cs:20
 #: system/scripts/npcs/egos/wand_male.cs:20
 msgid "Finish Conversation"
-msgstr ""
+msgstr "Terminar Conversación"
 
 #: system/scripts/npcs/egos/blunt_female.cs:20
 #: system/scripts/npcs/egos/blunt_male.cs:20
@@ -12997,7 +12999,7 @@ msgstr ""
 #: system/scripts/npcs/egos/wand_female.cs:20
 #: system/scripts/npcs/egos/wand_male.cs:20
 msgid "How are you doing?"
-msgstr ""
+msgstr "¿Cómo te va?"
 
 #: system/scripts/npcs/egos/blunt_female.cs:29
 #: system/scripts/npcs/egos/blunt_male.cs:29
@@ -13010,19 +13012,19 @@ msgstr ""
 #: system/scripts/npcs/egos/wand_female.cs:29
 #: system/scripts/npcs/egos/wand_male.cs:29
 msgid "See you another time."
-msgstr ""
+msgstr "Nos vemos."
 
 #: system/scripts/npcs/egos/eiry.cs:20 system/scripts/npcs/egos/eiry.cs:29
 msgid "Ask for Help"
-msgstr ""
+msgstr "Pedir Ayuda"
 
 #: system/scripts/npcs/egos/eiry.cs:20
 msgid "Main Locations"
-msgstr ""
+msgstr "Lugares principales"
 
 #: system/scripts/npcs/egos/eiry.cs:20
 msgid "Ask a Question"
-msgstr ""
+msgstr "Hacer una pregunta"
 
 #: system/scripts/npcs/egos/eiry.cs:20
 msgid "Tip for Today"
@@ -14551,6 +14553,8 @@ msgid ""
 "You can find Chief Duncan on the east side of the Square.<br/>When you get "
 "there, try to find a sign that says 'Chief's House'"
 msgstr ""
+"Puedes encontrar a Duncan en el lado este de la plaza.<br/>Cuando llegues, "
+"busca el letrero que dice 'Casa de Duncan'"
 
 #: system/scripts/npcs/nao.cs:97
 msgid ""
@@ -15290,11 +15294,11 @@ msgstr ""
 
 #: system/scripts/npcs/tin.cs:63
 msgid "Yea, I like it."
-msgstr ""
+msgstr "Si, me gusta."
 
 #: system/scripts/npcs/tin.cs:63
 msgid "Show me another one."
-msgstr ""
+msgstr "Muéstrame otro."
 
 #: system/scripts/npcs/tin.cs:90
 msgid "Okay, let's see...<br/>How do you like this color? Do you like it?"
@@ -15785,6 +15789,8 @@ msgstr "Hola. <username/>.<br/>Que gusto da verte.."
 msgid ""
 "I wish you the best of luck with all that you do here in Erinn...<br/>See ya."
 msgstr ""
+"Te deseo la mejor de las suertes con todo lo que hagas aquí en Erinn...<br/"
+">Nos vemos."
 
 #: system/scripts/npcs/tir/alissa.cs:31
 msgid ""
@@ -17996,11 +18002,11 @@ msgstr ""
 
 #: system/scripts/npcs/tir/duncan.cs:47
 msgid "Please let me know if you need anything."
-msgstr ""
+msgstr "Por favor, dime si necesitas algo."
 
 #: system/scripts/npcs/tir/duncan.cs:47
 msgid "Retrive Lost Items"
-msgstr ""
+msgstr "Recuperar objetos."
 
 #: system/scripts/npcs/tir/duncan.cs:57
 msgid ""
@@ -23957,6 +23963,157 @@ msgstr "Portales Lunares con destino a {0} han aparecido por todo Erinn."
 msgid "Do you wish to travel to the {0} Moon Gate?"
 msgstr "¿Deseas viajar al Portal Lunar de {0}?"
 
+#: system/scripts/others/sealstones.cs:22
+msgid "Seal Stone of Dugald Aisle"
+msgstr ""
+"Sello demoniaco del\n"
+"Sendero Dugald"
+
+#: system/scripts/others/sealstones.cs:24
+msgid ""
+"The Seal of Dugald Aisle\n"
+"\n"
+"Only the one who has mastered various skills can break the seal."
+msgstr ""
+"El sello demoniaco del Sendero Dugald\n"
+"Solo se podrá romper por aquel que ha dominado\n"
+"las habilidades necesarias."
+
+#: system/scripts/others/sealstones.cs:47
+msgid "Seal Stone of Ciar Dungeon"
+msgstr ""
+"Sello demoniaco del\n"
+"Calabozo Ciar"
+
+#: system/scripts/others/sealstones.cs:49
+msgid ""
+"The Seal of Ciar Dungeon\n"
+"\n"
+"Only the person with strong power can destroy this Seal."
+msgstr ""
+"El sello demoniaco del Calabozo Ciar\n"
+"Solo se podrá romper por aquel que posea\n"
+"la fuerza suficiente (FUE 35)."
+
+#: system/scripts/others/sealstones.cs:72
+msgid "Seal Stone of Rabbie Dungeon"
+msgstr "Sello demoniaco del Calabozo Rabbie"
+
+#: system/scripts/others/sealstones.cs:74
+msgid ""
+"The Seal of Rabbie Dungeon\n"
+"\n"
+"Only the strong can break the seal."
+msgstr ""
+
+#: system/scripts/others/sealstones.cs:97
+msgid "Seal Stone of Math Dungeon"
+msgstr ""
+
+#: system/scripts/others/sealstones.cs:99
+msgid ""
+"The Seal of Math Dungeon\n"
+"\n"
+"Be a good little bard."
+msgstr ""
+
+#: system/scripts/others/sealstones.cs:127
+msgid "Seal Stone of Bangor"
+msgstr ""
+
+#: system/scripts/others/sealstones.cs:129
+msgid ""
+"The Seal of Bangor\n"
+"\n"
+"Only a person who aims far can break the seal."
+msgstr ""
+
+#: system/scripts/others/sealstones.cs:152
+msgid "Seal Stone of Fiodh Dungeon"
+msgstr ""
+
+#: system/scripts/others/sealstones.cs:154
+msgid ""
+"The Seal of Fiodh Dungeon\n"
+"\n"
+"...Honorable...only an honorable person can break this seal..."
+msgstr ""
+
+#: system/scripts/others/sealstones.cs:175
+msgid "Seal Stone of North Emain Macha"
+msgstr ""
+
+#: system/scripts/others/sealstones.cs:177
+msgid ""
+"The Seal of North Emain Macha\n"
+"\n"
+"Those who achieve more in the same time period may break the seal."
+msgstr ""
+
+#: system/scripts/others/sealstones.cs:201
+msgid "Seal Stone of South Emain Macha"
+msgstr ""
+
+#: system/scripts/others/sealstones.cs:203
+msgid ""
+"The Seal of South Emain Macha\n"
+"\n"
+"Those who achieve more in the same time period may break the seal."
+msgstr ""
+
+#: system/scripts/others/sealstones.cs:227
+msgid "Seal Stone of Abb Neagh"
+msgstr ""
+
+#: system/scripts/others/sealstones.cs:229
+msgid ""
+"The Seal of Abb Neagh\n"
+"\n"
+"Blah, Wand, blah, Mage."
+msgstr ""
+
+#: system/scripts/others/sealstones.cs:257
+msgid "Seal Stone of Sliab Cuilin"
+msgstr ""
+
+#: system/scripts/others/sealstones.cs:259
+msgid ""
+"The Seal of Sliab Cuilin\n"
+"\n"
+"Utilize Tracy's Secret."
+msgstr ""
+
+#: system/scripts/others/sealstones.cs:281
+msgid "Seal Stone of Tara"
+msgstr ""
+
+#: system/scripts/others/sealstones.cs:283
+msgid ""
+"The Seal of Tara\n"
+"\n"
+"Alchemists only!!!"
+msgstr ""
+
+#: system/scripts/others/sealstones.cs:364
+msgid "This seal stone cannot be broken yet."
+msgstr ""
+
+#: system/scripts/others/sealstones.cs:371
+msgid ""
+"Unable to break the Seal.\n"
+"You already hold the title of a Seal Breaker."
+msgstr ""
+
+#: system/scripts/others/sealstones.cs:395
+#, csharp-format
+msgid "{0} successfully broke {1} apart."
+msgstr ""
+
+#: system/scripts/others/sealstones.cs:403
+#, csharp-format
+msgid "{0} has started breaking {1} apart."
+msgstr ""
+
 #: system/scripts/quests/beginner_uladh/200007_go_to_school.cs:15
 msgid "Go to School"
 msgstr ""
@@ -24306,10 +24463,12 @@ msgstr "¿Te gustaría aprender como completar misiones?"
 msgid ""
 "Press the {0} key or<br/>press the Quest button at the bottom of your screen."
 msgstr ""
+"Presiona la tecla {0} o<br/>presiona el botón de misiones en la parte "
+"inferior de la pantalla."
 
 #: system/scripts/quests/beginner_uladh/202001_naos_letter.cs:40
 msgid "I pressed the Quest button"
-msgstr ""
+msgstr "Ya presioné el botón de misiones."
 
 #: system/scripts/quests/beginner_uladh/202001_naos_letter.cs:43
 msgid ""
@@ -24444,6 +24603,11 @@ msgid ""
 "so you can use it too.<br/>You don't need to overstrain yourself by going "
 "for the Brown Foxes. Young Brown Foxes will do just fine."
 msgstr ""
+"Los zorros se defienden mucho, como ya te dije antes, los ataques regulares "
+"no te servirán en esos casos.<br/>Allí es cuando la habilidad de Atizar se "
+"vuelve útil.<br/><br/>Mira como lo hago e intenta prestar atención a lo "
+"importante.<br/>No necesitas sobre esforzarte yendo contra zorros marrones "
+"adultos, puedes empezar con los jóvenes por ahora."
 
 #: system/scripts/quests/beginner_uladh/202002_rescue_resident.cs:56
 msgid ""
@@ -24462,6 +24626,10 @@ msgid ""
 "lose it or fail to rescue her, come back to me so I can give you another "
 "one. Please be careful."
 msgstr ""
+"Sigue el sendero arriba y ve hacia la derecha, encontrarás la Mazmorra Alby."
+"<br/>Puedes entrar a la mazmorra arrojando un objeto en el altar.<br/>Si "
+"pierdes el pase o fallas en tu misión, regresa conmigo para darte otro. Por "
+"favor ten cuidado."
 
 #: system/scripts/quests/beginner_uladh/202002_rescue_resident.cs:67
 msgid ""
@@ -24568,7 +24736,7 @@ msgstr "Tiempo Restante: {0}"
 
 #: system/scripts/quests/beginner_uladh/202004_malcolms_ring.cs:13
 msgid "Malcolm's Ring"
-msgstr ""
+msgstr "El anillo de Malcom"
 
 #: system/scripts/quests/beginner_uladh/202004_malcolms_ring.cs:14
 msgid ""
@@ -24576,18 +24744,22 @@ msgid ""
 "I happened to lose a ring in Alby Dungeon, but I cannot go find it myself. "
 "Can you help me find the ring? Come visit me first, though. - Malcolm -"
 msgstr ""
+"Soy Malcolm, Vendo gran variedad de cosas en la tienda general, cerca de la "
+"plaza. El otro día he pedido un anillo en la Mazmorra Alby y no puedo ir a "
+"buscarlo yo mismo. ¿Me puedes ayudar a encontrar el anillo?. - Malcolm -"
 
 #: system/scripts/quests/beginner_uladh/202004_malcolms_ring.cs:19
 msgid "Talk with Malcolm at the Tir Chonaill General Shop"
-msgstr ""
+msgstr "Habla con Malcolm en la tienda general de Tir Chonaill"
 
 #: system/scripts/quests/beginner_uladh/202004_malcolms_ring.cs:20
 msgid "Defeat the Giant Golden Spiderling in Alby Dungeon and get the Ring"
 msgstr ""
+"Derrotar Araña Gigante de Oro en la Mazmorra Alby y adquirir el anillo."
 
 #: system/scripts/quests/beginner_uladh/202004_malcolms_ring.cs:21
 msgid "Give the Ring to Malcolm"
-msgstr ""
+msgstr "Dar el anillo a Malcolm"
 
 #: system/scripts/quests/beginner_uladh/202004_malcolms_ring.cs:40
 msgid ""
@@ -24595,6 +24767,9 @@ msgid ""
 ">I think I lost my ring in Alby Dungeon,<br/>but I can't leave, because I "
 "have no one to take care of the General Shop."
 msgstr ""
+"Así que, tú recibiste la misión que envié con esa lechuza...<br/>Gracias por "
+"venir.<br/>He perdido mi anillo en la Mazmorra Alby,<br/>pero no puedo dejar "
+"mi puesto de trabajo en la tienda."
 
 #: system/scripts/quests/beginner_uladh/202004_malcolms_ring.cs:41
 msgid ""
@@ -24603,34 +24778,42 @@ msgid ""
 "Counterattack skill.<br/><br/>Take this pass to enter the dungeon, and "
 "please find my ring."
 msgstr ""
+"Se que es mucho pedir, pero ¿Podrías ir y encontrar el anillo para mi?<br/"
+">La mazmorra es muy peligrosa y sugiero hablar primero con Trefor acerca de "
+"la Habilidad Contra Ataque.<br/><br/>Toma éste pase para entrar a la "
+"mazmorra, y por favor encuentra mi anillo."
 
 #: system/scripts/quests/beginner_uladh/202004_malcolms_ring.cs:53
 msgid "You found my Ring!<br/>You have my thanks."
-msgstr ""
+msgstr "¡Encontraste mi anillo!<br/>Tienes mis agradecimientos."
 
 #: system/scripts/quests/beginner_uladh/202006_duncans_call.cs:13
 msgid "Duncan's Call"
-msgstr ""
+msgstr "Llamado de Duncan"
 
 #: system/scripts/quests/beginner_uladh/202006_duncans_call.cs:14
 msgid ""
 "Looks like you're living a good life. Come visit me when you have the time. "
 "- Duncan -"
 msgstr ""
+"Parece que estás llevando una buena vida. Ven a visitarme cuando tengas "
+"tiempo. - Duncan -"
 
 #: system/scripts/quests/beginner_uladh/202006_duncans_call.cs:19
 msgid "Talk to Chief Duncan."
-msgstr ""
+msgstr "Hablar con Duncan"
 
 #: system/scripts/quests/beginner_uladh/202006_duncans_call.cs:42
 msgid "Received Fluted Short Sword from Duncan."
-msgstr ""
+msgstr "Recibes Espada Corta de Duncan"
 
 #: system/scripts/quests/beginner_uladh/202006_duncans_call.cs:45
 msgid ""
 "Oh, you are finally here, <username/>.<br/>I've heard a lot about you from "
 "the villagers.<br/>You've leveled up quite a lot."
 msgstr ""
+"Oh, al fin estás aquí <username/>.<br/>La gente del pueblo ya está "
+"comenzando a hablar de ti.<br/>Se dice que has subido bastante de nivel."
 
 #: system/scripts/quests/beginner_uladh/202006_duncans_call.cs:46
 msgid ""
@@ -24638,12 +24821,18 @@ msgid ""
 "tradition<br/>of growing resolute and sturdy warriors<br/>that don't have to "
 "worry about the kingdom's control."
 msgstr ""
+"Éste puede ser un pueblo pequeño,<br/>pero su gente cuenta con una antigua "
+"tradición<br/>donde se dedican a cultivar guerreros fuertes y decididos<br/"
+">que no tengan que preocuparse por el control del reino."
 
 #: system/scripts/quests/beginner_uladh/202006_duncans_call.cs:47
 msgid ""
 "You have now completed all our missions<br/>and have earned the right to "
 "join the rank of Tir Chonaill's warriors.<br/>Well done, and congratulations."
 msgstr ""
+"Haz completado todas nuestras misiones<br/>y haz obtenido el derecho de "
+"unirte al grupo de guerreros de Tir Chonaill.<br/>Bien hecho y "
+"felicitaciones."
 
 #: system/scripts/quests/beginner_uladh/202006_duncans_call.cs:48
 msgid ""
@@ -24652,10 +24841,14 @@ msgid ""
 "must have already parted ways with you.<br/>There is no one to look after "
 "you now, so befriend as many people as you can."
 msgstr ""
+"A donde sea que te dirijas, no olvides quien eres y en quien te has "
+"convertido.<br/>Ahora que eres más fuerte, podrás sobrevivir solo,<br/>y no "
+"necesitarás la ayuda de tu guía Ego.<br/>Desde ahora, nadie cuidará de ti, "
+"así que intenta ser amable con el resto de la gente."
 
 #: system/scripts/quests/beginner_uladh/202006_duncans_call.cs:49
 msgid "If you have anything else to ask, let me know."
-msgstr ""
+msgstr "Si tienes algo más que preguntar, házmelo saber."
 
 #: system/scripts/quests/beginner_uladh/202026_campfire.cs:12
 msgid "Campfire"
