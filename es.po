@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Hispanogi\n"
 "POT-Creation-Date: 2016-03-16 12:40-0400\n"
-"PO-Revision-Date: 2016-03-16 12:41-0400\n"
+"PO-Revision-Date: 2016-03-16 15:14-0400\n"
 "Last-Translator: Arufonsu\n"
 "Language-Team: \n"
 "Language: es\n"
@@ -1834,7 +1834,7 @@ msgid ""
 "dungeon."
 msgstr ""
 "Imposible entrar a la habitación del jefe. \n"
-"Debe haber una puerta cerrada en el calabozo."
+"Debe haber una puerta cerrada en la mazmorra."
 
 #: src/ChannelServer/World/Dungeons/Props/Door.cs:152
 msgid "You have opened the door with the key."
@@ -2935,25 +2935,25 @@ msgstr "Consumibles"
 #: system/scripts/dungeons/tircho_alby_dungeon.cs:95
 #: system/scripts/dungeons/tircho_ciar_dungeon.cs:74
 msgid "This dungeon hasn't been implemented yet."
-msgstr "Este calabozo aún no se encuentra implementado."
+msgstr "Este mazmorra aún no se encuentra implementado."
 
 #: system/scripts/dungeons/danu_dungeon.cs:24
 #: system/scripts/dungeons/tircho_alby_dungeon.cs:57
 #: system/scripts/dungeons/tircho_ciar_dungeon.cs:36
 msgid "You can only enter this dungeon alone."
-msgstr "Solo puedes entrar a este calabozo por tu cuenta."
+msgstr "Solo puedes entrar a ésta mazmorra por tu cuenta."
 
 #: system/scripts/dungeons/danu_dungeon.cs:39
 #: system/scripts/dungeons/tircho_alby_dungeon.cs:72
 #: system/scripts/dungeons/tircho_ciar_dungeon.cs:51
 msgid "To enter this dungeon, you need a party with 2 members."
-msgstr "Para entrar a este calabozo, necesitas un grupo con 2 miembros."
+msgstr "Para entrar a esta mazmorra, necesitas un grupo con 2 miembros."
 
 #: system/scripts/dungeons/danu_dungeon.cs:54
 #: system/scripts/dungeons/tircho_alby_dungeon.cs:87
 #: system/scripts/dungeons/tircho_ciar_dungeon.cs:66
 msgid "To enter this dungeon, you need a party with 4 members."
-msgstr "Para entrar a este calabozo, necesitas un grupo con 4 miembros."
+msgstr "Para entrar a está mazmorra, necesitas un grupo con 4 miembros."
 
 #: system/scripts/items/warp_scroll.cs:32
 msgid "Safety error, failed to warp."
@@ -5035,7 +5035,7 @@ msgstr ""
 #: system/scripts/npcs/tir/lassar.cs:47 system/scripts/npcs/tir/nora.cs:45
 #: system/scripts/npcs/tir/ranald.cs:39 system/scripts/npcs/tir/trefor.cs:44
 msgid "Start Conversation"
-msgstr ""
+msgstr "Iniciar Conversación"
 
 #: system/scripts/npcs/bangor/elen.cs:54
 msgid ""
@@ -7527,7 +7527,7 @@ msgstr ""
 #: system/scripts/npcs/dunbarton/stewart.cs:43
 #: system/scripts/npcs/tir/lassar.cs:47 system/scripts/npcs/tir/trefor.cs:44
 msgid "Upgrade Item"
-msgstr ""
+msgstr "Mejorar objeto"
 
 #: system/scripts/npcs/bangor/sion.cs:65
 msgid ""
@@ -12129,7 +12129,7 @@ msgstr ""
 #: system/scripts/npcs/tir/goro.cs:31 system/scripts/npcs/tir/nora.cs:45
 #: system/scripts/npcs/tir/ranald.cs:39 system/scripts/npcs/tir/trefor.cs:44
 msgid "How can I help you?"
-msgstr ""
+msgstr "Hola, ¿necesitas ayuda con algo?"
 
 #: system/scripts/npcs/dunbarton/stewart.cs:51
 msgid ""
@@ -14517,7 +14517,7 @@ msgid ""
 "adventurer before you know it!"
 msgstr ""
 "Hay tantas cosas por hacer y aventuras a las que ir en Erinn.<br/>Cazar y "
-"explorar calabozos en Uladh...<br/>Explorar las ruinas en Iria...<br/"
+"explorar las mazmorras de Uladh...<br/>Explorar las ruinas en Iria...<br/"
 ">Aprender historias de los demonios en Belvast...<p/>¡Explora las tres "
 "regiones para experimentar nuevas aventuras!<br/>Sea lo que desees hacer, "
 "<username/>, si sigues tu corazón,<br/>¡Estoy segura que te convertirás en "
@@ -16263,7 +16263,7 @@ msgstr ""
 
 #: system/scripts/npcs/tir/bebhinn.cs:42 system/scripts/npcs/tir/endelyon.cs:38
 msgid "May I help you?"
-msgstr ""
+msgstr "¿Te puedo ayudar en algo?"
 
 #: system/scripts/npcs/tir/bebhinn.cs:50
 msgid ""
@@ -17081,7 +17081,7 @@ msgstr ""
 #: system/scripts/npcs/tir/caitin.cs:404 system/scripts/npcs/tir/caitin.cs:405
 #: system/scripts/npcs/tir/caitin.cs:406
 msgid "Grocery"
-msgstr ""
+msgstr "Alimentos"
 
 #: system/scripts/npcs/tir/deian.cs:26
 msgid ""
@@ -18006,7 +18006,7 @@ msgstr "Por favor, dime si necesitas algo."
 
 #: system/scripts/npcs/tir/duncan.cs:47
 msgid "Retrive Lost Items"
-msgstr "Recuperar objetos."
+msgstr "Recuperar objetos"
 
 #: system/scripts/npcs/tir/duncan.cs:57
 msgid ""
@@ -23533,7 +23533,7 @@ msgstr ""
 #: system/scripts/quests/beginner_uladh/202030_lets_gather_green_gem.cs:33
 #: system/scripts/quests/beginner_uladh/202033_gathering_berries.cs:44
 msgid "Continue"
-msgstr ""
+msgstr "Continuar"
 
 #: system/scripts/npcs/tir_na_nog/dougal.cs:79
 msgid "It seems like you changed your mind.<br/>Oh well..."
@@ -23983,7 +23983,7 @@ msgstr ""
 msgid "Seal Stone of Ciar Dungeon"
 msgstr ""
 "Sello demoniaco del\n"
-"Calabozo Ciar"
+"Mazmorra Ciar"
 
 #: system/scripts/others/sealstones.cs:49
 msgid ""
@@ -23991,13 +23991,13 @@ msgid ""
 "\n"
 "Only the person with strong power can destroy this Seal."
 msgstr ""
-"El sello demoniaco del Calabozo Ciar\n"
+"El sello demoniaco del Mazmorra Ciar\n"
 "Solo se podrá romper por aquel que posea\n"
 "la fuerza suficiente (FUE 35)."
 
 #: system/scripts/others/sealstones.cs:72
 msgid "Seal Stone of Rabbie Dungeon"
-msgstr "Sello demoniaco del Calabozo Rabbie"
+msgstr "Sello demoniaco del Mazmorra Rabbie"
 
 #: system/scripts/others/sealstones.cs:74
 msgid ""
@@ -24529,7 +24529,7 @@ msgid ""
 "for the lost resident. - Trefor -"
 msgstr ""
 "Soy Trefor, sirviente y guardia del sector norte de la ciudad, pasando la "
-"casa del curandero. Uno de los residentes de la ciudad fue al Calabozo Alby "
+"casa del curandero. Uno de los residentes de la ciudad fue al Mazmorra Alby "
 "y no ha regresado. Estoy preocupado y necesito que me ayudes a buscar a ésta "
 "persona. - Trefor -"
 
@@ -24545,7 +24545,7 @@ msgstr "Cazar 5 Zorros marrones jóvenes"
 
 #: system/scripts/quests/beginner_uladh/202002_rescue_resident.cs:22
 msgid "Rescue a town resident from Alby Dungeon"
-msgstr "Rescata un residente de la ciudad en el Calabozo Alby"
+msgstr "Rescata un residente de la ciudad en el Mazmorra Alby"
 
 #: system/scripts/quests/beginner_uladh/202002_rescue_resident.cs:40
 msgid ""
@@ -24554,10 +24554,10 @@ msgid ""
 "myself, but I can't leave my post. I'd really appreciate it if you can go "
 "and look for in Alby Dungeon."
 msgstr ""
-"Bienvenido, Soy Trefor, el Guardia.<br/>Alguien de la ciudad fue al Calabozo "
+"Bienvenido, Soy Trefor, el Guardia.<br/>Alguien de la ciudad fue al Mazmorra "
 "Alby hace un tiempo, pero no ha regresado aún.<br/>Desearía ir por mi "
 "cuenta, pero no puedo abandonar mi puesto,<br/>por lo que realmente "
-"apreciaría si me ayudas echando un ojo en el Calabozo Alby."
+"apreciaría si me ayudas echando un ojo en el Mazmorra Alby."
 
 #: system/scripts/quests/beginner_uladh/202002_rescue_resident.cs:41
 msgid ""
@@ -24567,7 +24567,7 @@ msgid ""
 "highly effective when you sneak up on a target and deliver the blow without "
 "warning."
 msgstr ""
-"Considerando que el calabozo es un lugar peligroso, voy a enseñarte una "
+"Considerando que la mazmorra es un lugar peligroso, voy a enseñarte una "
 "habilidad que te ayudará en emergencias.<br/>La habilidad se llama Atizar. "
 "¡Si lo usas, puedes noquear un monstruo de un solo golpe!<br/>También es "
 "bastante efectivo cuando te escabulles hacia tu objetivo y entregas un "
@@ -24616,8 +24616,8 @@ msgid ""
 "search for the missing Villager."
 msgstr ""
 "Bien, veo que ya comienzas a tomar el ritmo.<br/>Bueno, yo logré hacer eso "
-"cuando tenia 8, como sea...<br/>Ahora es tiempo de que busques al residente "
-"perdido."
+"cuando tenia ocho años, como sea...<br/>Ahora es tiempo de que busques al "
+"residente perdido."
 
 #: system/scripts/quests/beginner_uladh/202002_rescue_resident.cs:57
 msgid ""
