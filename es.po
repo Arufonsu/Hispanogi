@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Hispanogi\n"
-"POT-Creation-Date: 2016-03-16 09:38-0400\n"
-"PO-Revision-Date: 2016-03-16 10:33-0400\n"
+"POT-Creation-Date: 2016-03-16 12:04-0400\n"
+"PO-Revision-Date: 2016-03-16 12:04-0400\n"
 "Last-Translator: Arufonsu\n"
 "Language-Team: \n"
 "Language: es\n"
@@ -1784,15 +1784,15 @@ msgstr ""
 #: src/ChannelServer/World/Dungeons/Dungeon.cs:765
 #: src/ChannelServer/World/Dungeons/Dungeon.cs:772
 msgid "This dungeon has been created by another player."
-msgstr "Este calabozo fue creado por otro jugador."
+msgstr "Esta mazmorra fue creado por otro jugador."
 
 #: src/ChannelServer/World/Dungeons/Dungeon.cs:770
 msgid "This dungeon has been created by you or your party.\t"
-msgstr "Este calabozo ha sido creado ti o por tu grupo.\t"
+msgstr "Esta mazmorra ha sido creado ti o por tu grupo.\t"
 
 #: src/ChannelServer/World/Dungeons/Dungeon.cs:819
 msgid "Players in the dungeon:"
-msgstr "Jugadores en el calabozo:"
+msgstr "Jugadores en la mazmorra: "
 
 #: src/ChannelServer/World/Dungeons/Dungeon.cs:823
 msgid "Entrance"
@@ -1812,12 +1812,12 @@ msgstr "{1} de {0}"
 #, csharp-format
 msgid "... {0} player total"
 msgid_plural "... {0} players total"
-msgstr[0] "... {0} jugador"
-msgstr[1] "... {0} jugadores en total"
+msgstr[0] " {0} jugador"
+msgstr[1] " {0} jugadores en total"
 
 #: src/ChannelServer/World/Dungeons/DungeonManager.cs:281
 msgid "Only the leader may create the dungeon."
-msgstr "Solo el líder del grupo puede crear el calabozo."
+msgstr "Solo el líder del grupo puede crear una mazmorra."
 
 #: src/ChannelServer/World/Dungeons/Props/Chest.cs:95
 msgid "Do you wish to open this chest?"
@@ -2904,12 +2904,12 @@ msgstr "{1} te ha encarcelado por {0}."
 
 #: system/scripts/custom/points_shop.cs:13
 msgid "Pon Shop"
-msgstr ""
+msgstr "Tienda de Cash"
 
 #: system/scripts/custom/points_shop.cs:25 system/scripts/npcs/tir/caitin.cs:41
 #: system/scripts/npcs/tir/deian.cs:47 system/scripts/npcs/tir/malcolm.cs:42
 msgid "What can I do for you?"
-msgstr ""
+msgstr "¿Qué puedo hacer por ti?"
 
 #: system/scripts/custom/points_shop.cs:34
 #: system/scripts/custom/points_shop.cs:37
@@ -2917,7 +2917,7 @@ msgstr ""
 #: system/scripts/custom/points_shop.cs:39
 #: system/scripts/custom/points_shop.cs:40
 msgid "Combat"
-msgstr ""
+msgstr "Combate"
 
 #: system/scripts/custom/points_shop.cs:35
 #: system/scripts/custom/points_shop.cs:42
@@ -2926,7 +2926,7 @@ msgstr ""
 #: system/scripts/custom/points_shop.cs:48
 #: system/scripts/custom/points_shop.cs:49
 msgid "Consumables"
-msgstr ""
+msgstr "Consumibles"
 
 #: system/scripts/dungeons/bangor_barri_dungeon.cs:22
 #: system/scripts/dungeons/danu_dungeon.cs:62
@@ -12946,6 +12946,19 @@ msgstr "Terminar Conversación"
 #: system/scripts/npcs/egos/sword_male.cs:20
 #: system/scripts/npcs/egos/wand_female.cs:20
 #: system/scripts/npcs/egos/wand_male.cs:20
+msgid "How are you doing?"
+msgstr "¿Cómo te va?"
+
+#: system/scripts/npcs/egos/blunt_female.cs:20
+#: system/scripts/npcs/egos/blunt_male.cs:20
+#: system/scripts/npcs/egos/bow_female.cs:20
+#: system/scripts/npcs/egos/bow_male.cs:20
+#: system/scripts/npcs/egos/cylinder_female.cs:20
+#: system/scripts/npcs/egos/cylinder_male.cs:20
+#: system/scripts/npcs/egos/sword_female.cs:20
+#: system/scripts/npcs/egos/sword_male.cs:20
+#: system/scripts/npcs/egos/wand_female.cs:20
+#: system/scripts/npcs/egos/wand_male.cs:20
 msgid "Talk"
 msgstr "Hablar"
 
@@ -12988,19 +13001,6 @@ msgstr "Reparar"
 msgid "Finish Conversation"
 msgstr "Terminar Conversación"
 
-#: system/scripts/npcs/egos/blunt_female.cs:20
-#: system/scripts/npcs/egos/blunt_male.cs:20
-#: system/scripts/npcs/egos/bow_female.cs:20
-#: system/scripts/npcs/egos/bow_male.cs:20
-#: system/scripts/npcs/egos/cylinder_female.cs:20
-#: system/scripts/npcs/egos/cylinder_male.cs:20
-#: system/scripts/npcs/egos/sword_female.cs:20
-#: system/scripts/npcs/egos/sword_male.cs:20
-#: system/scripts/npcs/egos/wand_female.cs:20
-#: system/scripts/npcs/egos/wand_male.cs:20
-msgid "How are you doing?"
-msgstr "¿Cómo te va?"
-
 #: system/scripts/npcs/egos/blunt_female.cs:29
 #: system/scripts/npcs/egos/blunt_male.cs:29
 #: system/scripts/npcs/egos/bow_female.cs:29
@@ -13013,6 +13013,10 @@ msgstr "¿Cómo te va?"
 #: system/scripts/npcs/egos/wand_male.cs:29
 msgid "See you another time."
 msgstr "Nos vemos."
+
+#: system/scripts/npcs/egos/eiry.cs:20
+msgid "If you have any questions, ASK ME!"
+msgstr ""
 
 #: system/scripts/npcs/egos/eiry.cs:20 system/scripts/npcs/egos/eiry.cs:29
 msgid "Ask for Help"
@@ -13028,10 +13032,6 @@ msgstr "Hacer una pregunta"
 
 #: system/scripts/npcs/egos/eiry.cs:20
 msgid "Tip for Today"
-msgstr ""
-
-#: system/scripts/npcs/egos/eiry.cs:20
-msgid "If you have any questions, ASK ME!"
 msgstr ""
 
 #: system/scripts/npcs/egos/eiry.cs:28
@@ -16683,19 +16683,19 @@ msgid ""
 msgstr ""
 
 #: system/scripts/npcs/tir/caitin.cs:83
+msgid ""
+"Hehe, skills?<br/>Well, how about cooking? Do you enjoy cooking?<br/>Oh, but "
+"that doesn't mean I can teach you the Cooking skill.<br/>I'm not good enough "
+"to teach you...<br/>Though I can share my experiences of cooking if you like."
+msgstr ""
+
+#: system/scripts/npcs/tir/caitin.cs:83
 msgid "OK"
 msgstr ""
 
 #: system/scripts/npcs/tir/caitin.cs:83
 #: system/scripts/quests/ptj/healer_dilys.cs:164
 msgid "No, thanks"
-msgstr ""
-
-#: system/scripts/npcs/tir/caitin.cs:83
-msgid ""
-"Hehe, skills?<br/>Well, how about cooking? Do you enjoy cooking?<br/>Oh, but "
-"that doesn't mean I can teach you the Cooking skill.<br/>I'm not good enough "
-"to teach you...<br/>Though I can share my experiences of cooking if you like."
 msgstr ""
 
 #: system/scripts/npcs/tir/caitin.cs:87
