@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Hispanogi\n"
 "POT-Creation-Date: 2016-03-16 12:40-0400\n"
-"PO-Revision-Date: 2016-03-16 15:14-0400\n"
+"PO-Revision-Date: 2016-03-18 13:18-0400\n"
 "Last-Translator: Arufonsu\n"
 "Language-Team: \n"
 "Language: es\n"
@@ -160,21 +160,25 @@ msgstr "Insuficiente cantidad de oro."
 
 #: src/ChannelServer/Network/Handlers/NPCs.cs:298
 msgid "Insufficient amount of stars."
-msgstr ""
+msgstr "Insuficiente cantidad de estrellas."
 
 #: src/ChannelServer/Network/Handlers/NPCs.cs:299
 msgid "Insufficient amount of ducats."
-msgstr ""
+msgstr "Insuficiente cantidad de ducados."
 
 #: src/ChannelServer/Network/Handlers/NPCs.cs:300
 msgid ""
 "You don't have enough Pon.\n"
 "You will need to buy more."
 msgstr ""
+"No tienes suficientes Pons.\n"
+"Los Pons pueden ser obtenidos a través de donaciones."
 
 #: src/ChannelServer/Network/Handlers/NPCs.cs:378
 msgid "You cannot sell items bought by Pon at the shop."
 msgstr ""
+"No puedes vender objetos que fueron comprados\n"
+"en la tienda de Pons."
 
 #: src/ChannelServer/Network/Handlers/NPCs.cs:475
 #, csharp-format
@@ -1784,11 +1788,11 @@ msgstr ""
 #: src/ChannelServer/World/Dungeons/Dungeon.cs:765
 #: src/ChannelServer/World/Dungeons/Dungeon.cs:772
 msgid "This dungeon has been created by another player."
-msgstr "Esta mazmorra fue creado por otro jugador."
+msgstr "Esta mazmorra fue creada por otro jugador."
 
 #: src/ChannelServer/World/Dungeons/Dungeon.cs:770
 msgid "This dungeon has been created by you or your party.\t"
-msgstr "Esta mazmorra ha sido creado ti o por tu grupo.\t"
+msgstr "Esta mazmorra ha sido creada ti o por tu grupo.\t"
 
 #: src/ChannelServer/World/Dungeons/Dungeon.cs:819
 msgid "Players in the dungeon:"
@@ -2011,7 +2015,7 @@ msgstr "Por favor no uses tu información de mabinogi oficial."
 
 #: src/LoginServer/Network/Handlers/Login.cs:178
 msgid "Unsupported password encryption, please use the latest NA client."
-msgstr "Unsupported password encryption, please use the latest NA client."
+msgstr "Por favor utiliza el ultimo cliente de Mabinogi NA"
 
 #: src/LoginServer/Network/Handlers/Login.cs:205
 #, csharp-format
@@ -2935,7 +2939,7 @@ msgstr "Consumibles"
 #: system/scripts/dungeons/tircho_alby_dungeon.cs:95
 #: system/scripts/dungeons/tircho_ciar_dungeon.cs:74
 msgid "This dungeon hasn't been implemented yet."
-msgstr "Este mazmorra aún no se encuentra implementado."
+msgstr "Este mazmorra aún no se encuentra implementada."
 
 #: system/scripts/dungeons/danu_dungeon.cs:24
 #: system/scripts/dungeons/tircho_alby_dungeon.cs:57
@@ -12913,7 +12917,7 @@ msgstr "¿Quizás algo de oro?"
 
 #: system/scripts/npcs/dungeonlostresident.cs:19
 msgid "An item!"
-msgstr "Un objeto!"
+msgstr "¡Un objeto!"
 
 #: system/scripts/npcs/dungeonlostresident.cs:26
 msgid "Some money? Of course, here you go."
@@ -16654,6 +16658,9 @@ msgid ""
 "Welcome to the Grocery Store.<br/>There is a variety of fresh food and "
 "ingredients for you to choose from."
 msgstr ""
+"Te doy la bienvenida a mi tienda de Alimentos.<br/>Aquí podrás escoger entre "
+"una gran variedad de alimentos frescos<br/>e ingredientes listos para "
+"cocinar como los dioses."
 
 #: system/scripts/npcs/tir/caitin.cs:68
 msgid ""
@@ -16691,12 +16698,12 @@ msgstr ""
 
 #: system/scripts/npcs/tir/caitin.cs:83
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: system/scripts/npcs/tir/caitin.cs:83
 #: system/scripts/quests/ptj/healer_dilys.cs:164
 msgid "No, thanks"
-msgstr ""
+msgstr "No, gracias"
 
 #: system/scripts/npcs/tir/caitin.cs:87
 msgid ""
@@ -23982,7 +23989,7 @@ msgstr ""
 #: system/scripts/others/sealstones.cs:47
 msgid "Seal Stone of Ciar Dungeon"
 msgstr ""
-"Sello demoniaco del\n"
+"Sello demoniaco de la\n"
 "Mazmorra Ciar"
 
 #: system/scripts/others/sealstones.cs:49
@@ -23991,13 +23998,13 @@ msgid ""
 "\n"
 "Only the person with strong power can destroy this Seal."
 msgstr ""
-"El sello demoniaco del Mazmorra Ciar\n"
+"El sello demoniaco de la Mazmorra Ciar\n"
 "Solo se podrá romper por aquel que posea\n"
 "la fuerza suficiente (FUE 35)."
 
 #: system/scripts/others/sealstones.cs:72
 msgid "Seal Stone of Rabbie Dungeon"
-msgstr "Sello demoniaco del Mazmorra Rabbie"
+msgstr "Sello demoniaco de la Mazmorra Rabbie"
 
 #: system/scripts/others/sealstones.cs:74
 msgid ""
@@ -24529,9 +24536,9 @@ msgid ""
 "for the lost resident. - Trefor -"
 msgstr ""
 "Soy Trefor, sirviente y guardia del sector norte de la ciudad, pasando la "
-"casa del curandero. Uno de los residentes de la ciudad fue al Mazmorra Alby "
-"y no ha regresado. Estoy preocupado y necesito que me ayudes a buscar a ésta "
-"persona. - Trefor -"
+"casa del curandero. Un residentes de la ciudad fue a la Mazmorra Alby, "
+"lamentablemente aún no ha regresado. Estoy preocupado y necesito que me "
+"ayudes a buscar ésta persona. - Trefor -"
 
 #: system/scripts/quests/beginner_uladh/202002_rescue_resident.cs:19
 #: system/scripts/quests/beginner_uladh/202002_rescue_resident.cs:21
@@ -24545,7 +24552,7 @@ msgstr "Cazar 5 Zorros marrones jóvenes"
 
 #: system/scripts/quests/beginner_uladh/202002_rescue_resident.cs:22
 msgid "Rescue a town resident from Alby Dungeon"
-msgstr "Rescata un residente de la ciudad en el Mazmorra Alby"
+msgstr "Rescata residente de la ciudad en la Mazmorra Alby"
 
 #: system/scripts/quests/beginner_uladh/202002_rescue_resident.cs:40
 msgid ""
@@ -24554,9 +24561,9 @@ msgid ""
 "myself, but I can't leave my post. I'd really appreciate it if you can go "
 "and look for in Alby Dungeon."
 msgstr ""
-"Bienvenido, Soy Trefor, el Guardia.<br/>Alguien de la ciudad fue al Mazmorra "
-"Alby hace un tiempo, pero no ha regresado aún.<br/>Desearía ir por mi "
-"cuenta, pero no puedo abandonar mi puesto,<br/>por lo que realmente "
+"Bienvenido, Soy Trefor, el Guardia.<br/>Alguien de la ciudad fue a la "
+"Mazmorra Alby hace un tiempo, pero no ha regresado aún.<br/>Desearía ir por "
+"mi cuenta, pero no puedo abandonar mi puesto,<br/>por lo que realmente "
 "apreciaría si me ayudas echando un ojo en el Mazmorra Alby."
 
 #: system/scripts/quests/beginner_uladh/202002_rescue_resident.cs:41
