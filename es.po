@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Hispanogi\n"
 "POT-Creation-Date: 2016-03-16 12:40-0400\n"
-"PO-Revision-Date: 2016-03-18 13:18-0400\n"
+"PO-Revision-Date: 2016-03-18 13:43-0400\n"
 "Last-Translator: Arufonsu\n"
 "Language-Team: \n"
 "Language: es\n"
@@ -24123,7 +24123,7 @@ msgstr ""
 
 #: system/scripts/quests/beginner_uladh/200007_go_to_school.cs:15
 msgid "Go to School"
-msgstr ""
+msgstr "Ir a la Escuela"
 
 #: system/scripts/quests/beginner_uladh/200007_go_to_school.cs:16
 msgid ""
@@ -24132,10 +24132,14 @@ msgid ""
 "fighting should at least learn to defend themselves. Please stop by the "
 "School when you can. - Ranald -"
 msgstr ""
+"Hola, soy Ranald, un instructor de batalla en la escuela. Saber defenderse "
+"es el aspecto más básico y fundamental en una aventura. Incluso aquellos que "
+"no están a favor de pelear deberían aprender a defenderse de amenazas. Por "
+"favor visítame en la escuela cuando tengas tiempo. - Ranald -"
 
 #: system/scripts/quests/beginner_uladh/200007_go_to_school.cs:21
 msgid "Talk with Ranald at Tir Chonaill School"
-msgstr ""
+msgstr "Hablar con Ranald en la Escuela de Tir Chonaill"
 
 #: system/scripts/quests/beginner_uladh/200007_go_to_school.cs:52
 msgid ""
@@ -24146,20 +24150,31 @@ msgid ""
 "haven't learned it yet, can you do me a favor?<br/>I'll let you know what it "
 "is so you can practice by yourself."
 msgstr ""
+"Parece que buscas el consejo de un guerrero como yo.<br/>Veamos, el solo dar "
+"una estocada a tus enemigos no lo es todo.<br/>Debes Defenderte de los "
+"ataques enemigos para romper el flujo<br/>y ganar así una oportunidad de "
+"contra atacar.<p/>Estoy hablando de la Habilidad Defensa.<br/>Hmm... si aún "
+"no la has aprendido ¿Podrías hacerme un favor?<br/>Te haré saber lo que es "
+"para que puedas practicarlo tu mismo."
 
 #: system/scripts/quests/beginner_uladh/200007_go_to_school.cs:54
 msgid "Received Defense Guidebook from Ranald."
 msgstr ""
+"Ranald te ha regalado un Libro guía\n"
+"Para la habilidad Defensa"
 
 #: system/scripts/quests/beginner_uladh/200007_go_to_school.cs:59
 msgid ""
 "How to use the Defense skill is described in this book.<br/>Read it well and "
 "practice hard. That's the only efficient way you can defend yourself."
 msgstr ""
+"El libro tiene todo aquello que quieras saber sobre la habilidad Defensa.<br/"
+">Léelo cuidadosamente y practica duro. Es la única forma de defenderte "
+"eficientemente."
 
 #: system/scripts/quests/beginner_uladh/200009_lets_learn_the_resting_skill.cs:12
 msgid "Let's Learn the Resting Skill"
-msgstr ""
+msgstr "Aprendamos a Descansar"
 
 #: system/scripts/quests/beginner_uladh/200009_lets_learn_the_resting_skill.cs:13
 msgid ""
@@ -24168,10 +24183,14 @@ msgid ""
 "at this rate!? Teee Heee... Well, it's no secret.... I'll let you know the "
 "Resting Skill. - Nora -"
 msgstr ""
+"Hola, soy Nora, trabajadora del Hotel y te doy la bienvenida a Tir Chonaill. "
+"Todos los viajeros suelen dormir afuera. Ellos aparecen y desaparecen de la "
+"ciudad... ¿¡Como haré dinero a éste ritmo!? Teee Heee... Bueno, no es un "
+"secreto haha, si vienes te enseñare la habilidad de Descansar. - Nora -"
 
 #: system/scripts/quests/beginner_uladh/200009_lets_learn_the_resting_skill.cs:19
 msgid "Acquire Resting Skill Rank F"
-msgstr ""
+msgstr "Adquirir la habilidad Descanso en Rango F"
 
 #: system/scripts/quests/beginner_uladh/200009_lets_learn_the_resting_skill.cs:32
 msgid ""
@@ -24250,12 +24269,12 @@ msgstr ""
 #: system/scripts/quests/beginner_uladh/school_ranald.cs:437
 #: system/scripts/quests/skills/20007_ranald_windmill.cs:17
 msgid "Talk to Ranald"
-msgstr ""
+msgstr "Hablar con Ranald"
 
 #: system/scripts/quests/beginner_uladh/200044_reach_level_30.cs:13
 #: system/scripts/quests/beginner_uladh/200044_reach_level_30.cs:19
 msgid "Reach Level 30"
-msgstr ""
+msgstr "Llegar a nivel 30"
 
 #: system/scripts/quests/beginner_uladh/200044_reach_level_30.cs:14
 msgid ""
@@ -24536,7 +24555,7 @@ msgid ""
 "for the lost resident. - Trefor -"
 msgstr ""
 "Soy Trefor, sirviente y guardia del sector norte de la ciudad, pasando la "
-"casa del curandero. Un residentes de la ciudad fue a la Mazmorra Alby, "
+"casa del curandero. Un residente de la ciudad fue a la Mazmorra Alby, "
 "lamentablemente aún no ha regresado. Estoy preocupado y necesito que me "
 "ayudes a buscar ésta persona. - Trefor -"
 
