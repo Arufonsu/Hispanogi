@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Hispanogi\n"
 "POT-Creation-Date: 2016-03-16 12:40-0400\n"
-"PO-Revision-Date: 2016-03-18 13:43-0400\n"
+"PO-Revision-Date: 2016-03-20 19:16-0300\n"
 "Last-Translator: Arufonsu\n"
 "Language-Team: \n"
 "Language: es\n"
@@ -5145,7 +5145,7 @@ msgstr ""
 #: system/scripts/npcs/dunbarton/walter.cs:27
 #: system/scripts/npcs/tir_na_nog/dougal.cs:39
 msgid "Hmm..."
-msgstr ""
+msgstr "Hmm…"
 
 #: system/scripts/npcs/bangor/elen.cs:124
 msgid "Where do you think<br/>you're standing right now?"
@@ -5215,7 +5215,7 @@ msgstr ""
 #: system/scripts/npcs/dunbarton/aeira.cs:207
 #: system/scripts/npcs/tir/meven.cs:265
 msgid "...?"
-msgstr ""
+msgstr "¿…?"
 
 #: system/scripts/npcs/bangor/elen.cs:172
 msgid "Did someone tell you that there is a reservoir here?<br/>Who?"
@@ -5348,7 +5348,7 @@ msgstr ""
 #: system/scripts/npcs/bangor/elen.cs:297
 #: system/scripts/npcs/bangor/elen.cs:298
 msgid "Shoes & Gloves"
-msgstr ""
+msgstr "Zapatos y Guantes"
 
 #: system/scripts/npcs/bangor/elen.cs:300
 #: system/scripts/npcs/bangor/elen.cs:301
@@ -5393,7 +5393,7 @@ msgstr "Cascos"
 #: system/scripts/npcs/dunbarton/nerys.cs:362
 #: system/scripts/npcs/dunbarton/nerys.cs:363
 msgid "Arrowhead"
-msgstr ""
+msgstr "Puntas de Flecha"
 
 #: system/scripts/npcs/bangor/gilmore.cs:24
 msgid ""
@@ -6882,7 +6882,7 @@ msgstr ""
 #: system/scripts/npcs/dunbarton/glenis.cs:390
 #: system/scripts/npcs/dunbarton/glenis.cs:391
 msgid "Food"
-msgstr ""
+msgstr "Comida"
 
 #: system/scripts/npcs/bangor/jenifer.cs:226
 #: system/scripts/npcs/bangor/jenifer.cs:227
@@ -6890,7 +6890,7 @@ msgstr ""
 #: system/scripts/npcs/bangor/jenifer.cs:229
 #: system/scripts/npcs/bangor/jenifer.cs:230
 msgid "Cooking Tools"
-msgstr ""
+msgstr "Herramientas de Cocina"
 
 #: system/scripts/npcs/bangor/riocard.cs:24
 msgid "Welcome to the Bangor Pub. Did you come alone?"
@@ -7525,7 +7525,7 @@ msgstr ""
 
 #: system/scripts/npcs/bangor/sion.cs:57
 msgid "Use a Furnace"
-msgstr ""
+msgstr "Usar un Horno"
 
 #: system/scripts/npcs/bangor/sion.cs:57
 #: system/scripts/npcs/dunbarton/stewart.cs:43
@@ -7559,15 +7559,15 @@ msgstr ""
 
 #: system/scripts/npcs/bangor/sion.cs:77 system/scripts/npcs/tir/alissa.cs:72
 msgid "1 Minute"
-msgstr ""
+msgstr "1 Minuto"
 
 #: system/scripts/npcs/bangor/sion.cs:77 system/scripts/npcs/tir/alissa.cs:72
 msgid "5 Minutes"
-msgstr ""
+msgstr "5 Minutos"
 
 #: system/scripts/npcs/bangor/sion.cs:77
 msgid "Forget It"
-msgstr ""
+msgstr "Olvidalo"
 
 #: system/scripts/npcs/bangor/sion.cs:83 system/scripts/npcs/bangor/sion.cs:94
 msgid ""
@@ -7979,12 +7979,12 @@ msgstr ""
 #: system/scripts/npcs/tir/piaras.cs:100 system/scripts/npcs/tir/ranald.cs:56
 #: system/scripts/npcs/tir/trefor.cs:61
 msgid "(Unimplemented)"
-msgstr ""
+msgstr "(Contenido no disponible)"
 
 #: system/scripts/npcs/dugald/tracy.cs:64 system/scripts/npcs/tir/lassar.cs:136
 #: system/scripts/npcs/tir/malcolm.cs:115 system/scripts/npcs/tir/piaras.cs:62
 msgid "Goodbye, <npcname/>. I'll see you later!"
-msgstr ""
+msgstr "Hasta luego <username/>."
 
 #: system/scripts/npcs/dugald/tracy.cs:74
 msgid ""
@@ -13020,7 +13020,7 @@ msgstr "Nos vemos."
 
 #: system/scripts/npcs/egos/eiry.cs:20
 msgid "If you have any questions, ASK ME!"
-msgstr ""
+msgstr "Si tienes alguna pregunta ¡PREGUNTAME!"
 
 #: system/scripts/npcs/egos/eiry.cs:20 system/scripts/npcs/egos/eiry.cs:29
 msgid "Ask for Help"
@@ -14599,29 +14599,36 @@ msgstr ""
 
 #: system/scripts/npcs/nao.cs:125
 msgid "Hello, <username/>!<br/>Is life here in Erinn pleasant for you?"
-msgstr ""
+msgstr "¡Hola, <username/>!<br/>¿Como te ha tratado la vida en Erinn?"
 
 #: system/scripts/npcs/nao.cs:130
 msgid "I'm afraid I can't let you rebirth just yet, the gods won't allow it."
 msgstr ""
+"Me temo que no puedo permitir que renazcas aún, los dioses no lo permitirán."
 
 #: system/scripts/npcs/nao.cs:136
 msgid ""
 "Barely any time has passed since your last rebirth.<br/>Why don't you enjoy "
 "your current life in Erinn for a bit longer?"
 msgstr ""
+"Ha pasado muy poco tiempo desde la ultima vez que renaciste.<br/>¿Porqué no "
+"disfrutas tu vida actual en Erinn un poco más?"
 
 #: system/scripts/npcs/nao.cs:140
 msgid ""
 "If you wish, you can abandon your current body and be reborn into a new one, "
 "<username/>."
 msgstr ""
+"<username/>, si lo deseas, puedes abandonar tu cuerpo actual y renacer en "
+"uno nuevo."
 
 #: system/scripts/npcs/nao.cs:144
 msgid ""
 "Feel free to ask me any questions you have about rebirth.<br/>Once you've "
 "made up your mind to be reborn, press Rebirth."
 msgstr ""
+"Siéntete libre de realizar cualquier pregunta sobre la reencarnación.<br/"
+">Una vez que estés decidido a renacer, presiona el botón Renacer."
 
 #: system/scripts/npcs/nao.cs:145
 msgid "Rebirth"
@@ -14675,7 +14682,7 @@ msgstr "¿Qué es lo que no cambie después de renacer?"
 
 #: system/scripts/npcs/nao.cs:191
 msgid "Done"
-msgstr "Listo"
+msgstr "Estoy listo"
 
 #: system/scripts/npcs/nao.cs:196
 msgid ""
@@ -14771,46 +14778,52 @@ msgid ""
 "(Cough, Cough)...<br/>So you have made it through the barrier and have "
 "reached this desolate place.<br/>"
 msgstr ""
+"(Cof, cof…)<br/>Así que lograste pasar la barrera y llegar a éste desolado "
+"lugar.<br/>"
 
 #: system/scripts/npcs/sidhe/tarlach.cs:33
 msgid ""
 "...It seems like you want to ask me something...<br/>Don't be shy about it..."
 "just ask me.<br/>(Cough)..."
 msgstr ""
+"…Parece que tienes algo que preguntarme…<br/>No seas tímido…solo haz tu "
+"pregunta.<br/> (Cof, cof…)"
 
 #: system/scripts/npcs/sidhe/tarlach.cs:34
 msgid ""
 "...You came, <username/>...mmm...<br/>I was just thinking it was about time "
 "for you to show up."
 msgstr ""
+"…Oh, pero si es <username/>…hmm…<br/>Justo estaba pensando que ya era hora "
+"de que te aparecieras por éstos lados."
 
 #: system/scripts/npcs/sidhe/tarlach.cs:36
 msgid "(Cough, Cough)"
-msgstr ""
+msgstr "(Cof, cof…)"
 
 #: system/scripts/npcs/sidhe/tarlach.cs:38
 msgid "...My head..."
-msgstr ""
+msgstr "…Mi cabeza…"
 
 #: system/scripts/npcs/sidhe/tarlach.cs:39
 msgid "...Is it not morning yet...?"
-msgstr ""
+msgstr "…¿Aún no es de día?…"
 
 #: system/scripts/npcs/sidhe/tarlach.cs:40
 msgid "...I'll just wait a little longer..."
-msgstr ""
+msgstr "…Solo esperare otro poco…"
 
 #: system/scripts/npcs/sidhe/tarlach.cs:41
 msgid "I guess not yet..."
-msgstr ""
+msgstr "Supongo que aún no…"
 
 #: system/scripts/npcs/sidhe/tarlach.cs:42
 msgid "...It's definitely cold at night..."
-msgstr ""
+msgstr "…Definitivamente las noches son frías…"
 
 #: system/scripts/npcs/sidhe/tarlach.cs:44
 msgid "...I can take it..."
-msgstr ""
+msgstr "…Puedo soportarlo…"
 
 #: system/scripts/npcs/sidhe/tarlach.cs:60
 msgid ""
@@ -14819,77 +14832,88 @@ msgid ""
 "gentle impression.<br/>Behind his thick glasses, however, are his cold "
 "emerald eyes filled with silent gloom."
 msgstr ""
+"Un hombre vestido con una túnica de color marrón claro, mira en silencio "
+"hacia donde estoy.<br/>Tiene el cabello rubio ondulado y piel blanca con un "
+"mentón bien definido que desprende una impresión suave.<br/>Detrás de sus "
+"gruesas gafas , sin embargo , muestra unos fríos ojos esmeralda llenos de "
+"oscuridad y silencio."
 
 #: system/scripts/npcs/sidhe/tarlach.cs:62
 msgid "...Mmm..."
-msgstr ""
+msgstr "…Mmm…"
 
 #: system/scripts/npcs/sidhe/tarlach.cs:71
 msgid ""
 "...You've accomplished what<br/>Mari, Ruairi and myself could not do....<br/"
 ">...Thank you."
 msgstr ""
+"…Has logrado con éxito aquello en lo que<br/>Mari, Ruairi y yo fracasamos…"
+"<br/>…Gracias."
 
 #: system/scripts/npcs/sidhe/tarlach.cs:72
 #: system/scripts/npcs/tir_na_nog/dougal.cs:179
 #: system/scripts/npcs/tir_na_nog/dougal.cs:190
 #: system/scripts/npcs/tir_na_nog/dougal.cs:222
 msgid "......"
-msgstr ""
+msgstr "……"
 
 #: system/scripts/npcs/sidhe/tarlach.cs:73
 msgid "...But...Ruairi...<br/>What's going to happen to him...?"
-msgstr ""
+msgstr "…Pero…Ruairi…<br/>¿Qué va a suceder con él…?"
 
 #: system/scripts/npcs/sidhe/tarlach.cs:74
 msgid "...Please. <username/>...<br/>If you hear anything about Ruairi..."
-msgstr ""
+msgstr "…Por favor <username/>…<br/>Si escuchas algo acerca de Ruairi…"
 
 #: system/scripts/npcs/sidhe/tarlach.cs:75
 msgid "...Please let me know..."
-msgstr ""
+msgstr "…Por favor, hazmelo saber…"
 
 #: system/scripts/npcs/sidhe/tarlach.cs:81
 #: system/scripts/npcs/sidhe/tarlach_bear.cs:58
 #: system/scripts/npcs/tir_na_nog/dougal.cs:85
 msgid "You have ended your conversation with <npcname/>."
-msgstr ""
+msgstr "Haz finalizado tu conversación con <npcname/>."
 
 #: system/scripts/npcs/sidhe/tarlach.cs:89
 msgid "...Don't try to find out too much about me."
-msgstr ""
+msgstr "…No intentes averiguar mucho acerca de mi."
 
 #: system/scripts/npcs/sidhe/tarlach.cs:94
 msgid ""
 "This is Sidhe Sneachta...<br/>a land that is blocked away from the rest of "
 "the world."
 msgstr ""
+"Estas en Sidhe Sneachta...<br/>una tierra que esta sellada y aislada del "
+"resto del mundo."
 
 #: system/scripts/npcs/sidhe/tarlach.cs:95
 msgid "...I'm surprised that you got through to here."
-msgstr ""
+msgstr "…Me sorprende ver como haz llegado hasta aquí."
 
 #: system/scripts/npcs/sidhe/tarlach.cs:100
 msgid "...There's no such thing here."
-msgstr ""
+msgstr "…No existe tal cosa aquí."
 
 #: system/scripts/npcs/sidhe/tarlach.cs:105
 msgid "...Are you looking for food?"
-msgstr ""
+msgstr "..¿Estás buscando comida?"
 
 #: system/scripts/npcs/sidhe/tarlach.cs:106
 msgid ""
 "Haha... Around here, you have to find your own food.<br/>That's how I've "
 "survived until now."
 msgstr ""
+"Haha..Por estos lados debes encontrar tu propia comida.<br/>Así es como he "
+"sobrevivido hasta ahora."
 
 #: system/scripts/npcs/sidhe/tarlach.cs:110
 msgid "...Are you okay?"
-msgstr ""
+msgstr "…¿Estás bien?"
 
 #: system/scripts/npcs/sidhe/tarlach.cs:116
 msgid "...You really expect to find that here...?"
-msgstr ""
+msgstr "…¿Realmente esperas encontrar eso aquí…?"
 
 #: system/scripts/npcs/sidhe/tarlach.cs:117
 msgid "You should think about what you're asking...before you say it. "
@@ -15188,7 +15212,7 @@ msgstr ""
 
 #: system/scripts/npcs/sidhe/tarlach_bear.cs:25
 msgid "Grrrrr..."
-msgstr ""
+msgstr "Grrrrr…"
 
 #: system/scripts/npcs/sidhe/tarlach_bear.cs:26
 msgid "Growl... "
@@ -15215,11 +15239,11 @@ msgstr ""
 
 #: system/scripts/npcs/sidhe/tarlach_bear.cs:67
 msgid ".....<br/>(There's no way a bear could understand me...)"
-msgstr ""
+msgstr ".....<br/>(No hay forma de que éste oso pueda entenderme...)"
 
 #: system/scripts/npcs/sidhe/tarlach_bear.cs:68
 msgid ".....<br/>(I wonder if the bear wants a Mana Herb?)"
-msgstr ""
+msgstr ".....<br/>(Me pregunto si el oso quiere comer algo Hierba mágica.)"
 
 #: system/scripts/npcs/tin.cs:31
 msgid ""
@@ -15802,44 +15826,49 @@ msgid ""
 "<br/>How did I know?<br/>Haha, it's written above your head. Don't tell me "
 "you don't see it?"
 msgstr ""
+"Hola… No te conozco, mi nombre es Alissa y el tuyo es <username/>, ¿cierto?"
+"<br/>¿Qué? ¿preguntas como sé tu nombre?<br/>Haha, está escrito sobre tu "
+"cabeza.<br/>No me digas… ¿no puedes verlo?"
 
 #: system/scripts/npcs/tir/alissa.cs:32
 msgid ""
 "Hey, you're back. Hmm...wasn't your name different last time?<br/>Maybe I "
 "saw it wrong."
 msgstr ""
+"Hey, haz regresado. Hmm… ¿No era tu nombre diferente la ultima vez que nos "
+"vimos?<br/>Quizás necesito un par de lentes haha…"
 
 #: system/scripts/npcs/tir/alissa.cs:35
 msgid "Hmm... Ferghus must have made another mistake."
-msgstr ""
+msgstr "Hmm… Ferghus debió cometer otro error."
 
 #: system/scripts/npcs/tir/alissa.cs:36
 msgid "How are you going to make flour without any wheat?"
-msgstr ""
+msgstr "¿Como planeas hacer Harina sin algo de Trigo?"
 
 #: system/scripts/npcs/tir/alissa.cs:37
 msgid "La la la la."
-msgstr ""
+msgstr "La la la la."
 
 #: system/scripts/npcs/tir/alissa.cs:38
 msgid "La la la, one leaf, la la la, two leaves."
-msgstr ""
+msgstr "La la la, una hoja, la la la, dos hojas."
 
 #: system/scripts/npcs/tir/alissa.cs:39
 msgid "My sister needs to grow up..."
-msgstr ""
+msgstr "Mi hermana necesita madurar…"
 
 #: system/scripts/npcs/tir/alissa.cs:40
 msgid "There's a guard at the wheat field, and I'm watching the Windmill."
-msgstr ""
+msgstr "Hay un guardia en el campo de trigo, mientras que yo cuido del molino."
 
 #: system/scripts/npcs/tir/alissa.cs:41
 msgid "When is Caitin going to teach me how to bake bread?"
-msgstr ""
+msgstr "¿Cuando es que Caitin me enseñará a hornear pan?"
 
 #: system/scripts/npcs/tir/alissa.cs:42
 msgid "You can gather wheat at the wheat field."
-msgstr ""
+msgstr "Puedes recoger trigo en el campo de trigo."
 
 #: system/scripts/npcs/tir/alissa.cs:51
 msgid ""
@@ -15849,40 +15878,53 @@ msgid ""
 "actually too big and she's discreetly trying to keep it from slipping.<br/"
 ">In spite of all that, her cherry eyes sparkle with curiosity."
 msgstr ""
+"Una niña está de pie con las manos en las caderas, como si fuera una persona "
+"de gran importancia.<br/>Lleva un sombrero desgastado que enmarca su suave "
+"cabello, tiene la cara redonda y una nariz pequeña.<br/>Observas que el "
+"delantal que lleva puesto es demasiado grande para ella, mientras trata "
+"discretamente de sujetarlo.<br/>A pesar de todo eso, sus ojos color cereza "
+"brillan de curiosidad."
 
 #: system/scripts/npcs/tir/alissa.cs:53
 msgid "So, what can I do for you?"
-msgstr ""
+msgstr "Así que… ¿Puedo hacer algo por ti?"
 
 #: system/scripts/npcs/tir/alissa.cs:53
 msgid "Operate the Windmill"
-msgstr ""
+msgstr "Operar el Molino"
 
 #: system/scripts/npcs/tir/alissa.cs:61
 msgid ""
 "Huh? <username/>...<br/>You're the Guardian of Erinn?<br/>When did this "
 "happen...?<br/>Even I can see that there's something different about you."
 msgstr ""
+"¿Huh? <username/>…<br/>¿Eres el Guardian de Erinn?<br/>¿Cuando sucedió esto…?"
+"<br/>Incluso puedo ver que hay algo diferente en tu persona."
 
 #: system/scripts/npcs/tir/alissa.cs:68
 msgid "The Mill is already working."
-msgstr ""
+msgstr "El Molino ya se encuentra funcionando."
 
 #: system/scripts/npcs/tir/alissa.cs:72
 msgid ""
 "How long do you want to use the Mill?<br/>It's 100 Gold for one minute and "
 "450 Gold for 5 minutes.<br/>Once it starts working, anyone can use the Mill."
 msgstr ""
+"¿Cuanto tiempo deseas utilizar el molino?<br/>Necesitas pagar 100 de oro "
+"para un minuto y 450 de oro para 5 minutos.<br/>Una vez que empiece a "
+"funcionar, cualquier persona puede utilizar el molino."
 
 #: system/scripts/npcs/tir/alissa.cs:72
 msgid "Forget it"
-msgstr ""
+msgstr "Olvidalo"
 
 #: system/scripts/npcs/tir/alissa.cs:85
 msgid ""
 "Whatever, it's your choice...<br/>Just remember that this is the only place "
 "where you can grind your crops into flour."
 msgstr ""
+"Como sea, es tu decisión…<br/>Sólo recuerda que este es el único lugar donde "
+"puedes moler tus cultivos y hacer harina."
 
 #: system/scripts/npcs/tir/alissa.cs:100
 msgid ""
@@ -16184,6 +16226,8 @@ msgstr ""
 #: system/scripts/npcs/tir/alissa.cs:273
 msgid "You don't have enough money. I'm sorry, you can't use it for free."
 msgstr ""
+"No tienes suficiente dinero. Lo siento, pero no puedes operar el molino "
+"gratuitamente."
 
 #: system/scripts/npcs/tir/alissa.cs:281
 #, csharp-format
@@ -16194,11 +16238,15 @@ msgid_plural ""
 "Okay!<br/>Anyone can use the Mill now for the next {0} minutes.<br/>I'm "
 "counting, haha."
 msgstr[0] ""
+"Queda {0} minuto en el que cualquiera puede usar el molino.<br/>Estoy "
+"contando los segundos jajaja."
 msgstr[1] ""
+"Quedan {0} minutos en los que cualquiera puede usar el molino.<br/>Estoy "
+"contando los segundos jajaja."
 
 #: system/scripts/npcs/tir/alissa.cs:282
 msgid "Yay! I got some pocket money!"
-msgstr ""
+msgstr "¡Hurra! ¡Tengo un poco de dinero!"
 
 #: system/scripts/npcs/tir/alissa.cs:294
 #, csharp-format
@@ -16206,56 +16254,60 @@ msgid ""
 "{0} has activated the Windmill. Anybody can use it now to grind crops into "
 "flour."
 msgstr ""
+"El molino ha sido activado por {0}.\n"
+"Cualquier persona podrá usarlo para moler sus cultivos y hacer harina."
 
 #: system/scripts/npcs/tir/alissa.cs:306
 msgid ""
 "The Mill is currently not in operation.\n"
 "Once you operate it, you can grind the crops into flour."
 msgstr ""
+"El molino no se encuentra funcionando.\n"
+"Una vez que lo actives, podrás moler tus cultivos y hacer harina."
 
 #: system/scripts/npcs/tir/bebhinn.cs:22
 msgid "Is this your first time here? Nice to meet you."
-msgstr ""
+msgstr "¿Es tu primera vez aquí? Es un gusto conocerte."
 
 #: system/scripts/npcs/tir/bebhinn.cs:23
 msgid "I think we've met before... nice to see you again."
-msgstr ""
+msgstr "Creo que nos hemos visto antes… que bueno es volver a verte."
 
 #: system/scripts/npcs/tir/bebhinn.cs:25
 msgid "Any city would be better than here, right?"
-msgstr ""
+msgstr "Cualquier ciudad sería mejor que aquí, ¿verdad?"
 
 #: system/scripts/npcs/tir/bebhinn.cs:26
 msgid "I prefer rainy days over clear days."
-msgstr ""
+msgstr "Prefiero los días de lluvia sobre los días claros."
 
 #: system/scripts/npcs/tir/bebhinn.cs:27
 msgid "It's soooo boring."
-msgstr ""
+msgstr "Valla, que trabajo más aburrido…"
 
 #: system/scripts/npcs/tir/bebhinn.cs:28
 msgid "No matter what, I am going hiking this weekend."
-msgstr ""
+msgstr "Definitivamente me voy de excursión este fin de semana."
 
 #: system/scripts/npcs/tir/bebhinn.cs:29
 msgid "Should I move out to the city?"
-msgstr ""
+msgstr "¿Debería mudarme fuera de la ciudad?"
 
 #: system/scripts/npcs/tir/bebhinn.cs:30
 msgid "So many good-looking men stopped by today..."
-msgstr ""
+msgstr "Ahh, hoy he atendido a hombres tan apuestos"
 
 #: system/scripts/npcs/tir/bebhinn.cs:31
 msgid "There's nothing worse than a man who makes a woman wait."
-msgstr ""
+msgstr "No hay nada peor que un hombre que deja a una dama esperando."
 
 #: system/scripts/npcs/tir/bebhinn.cs:32
 msgid "Where would be a good place to spend my vacation?"
-msgstr ""
+msgstr "¿Donde podría pasar mis vacaciones?"
 
 #: system/scripts/npcs/tir/bebhinn.cs:33
 msgid "Wow... I'm so pretty... Hehe."
-msgstr ""
+msgstr "Wow… Soy tan hermosa… jaja."
 
 #: system/scripts/npcs/tir/bebhinn.cs:40
 msgid ""
@@ -16264,6 +16316,10 @@ msgid ""
 "big, blue eyes sparkle with charm and fun, and her subtle smile creates "
 "irresistable dimples."
 msgstr ""
+"Una joven admira sus uñas mientras te acercas.<br/>Al percatarse de tu "
+"presencia, ella sube la mirada de forma expectante, como esperando que "
+"animes el  aburrido ambiente en el que trabaja.<br/>Sus grandes ojos azules "
+"brillan con encanto y diversión, mientras su sonrisa sutil te deja encantado."
 
 #: system/scripts/npcs/tir/bebhinn.cs:42 system/scripts/npcs/tir/endelyon.cs:38
 msgid "May I help you?"
@@ -16276,36 +16332,45 @@ msgid ""
 "Guardian of Erinn...<br/>It's so unfair!<p>Hey, I'm just teasing. Don't get "
 "all upset."
 msgstr ""
+"¿Qué? <username/>, ¿Eres el Guardian de Erinn?<br/>¡No entiendo!<br/>He "
+"trabajado tan duro toda mi vida, y tu entras por aquí y ya eres el Guardian "
+"de Erinn…<br/>¡Que injusto!<p>Hey, solo bromeaba, no te lo tomes enserio."
 
 #: system/scripts/npcs/tir/bebhinn.cs:59
 msgid ""
 "Are you here to redeem your coupon?<br/>Please enter the coupon number you "
 "wish to redeem."
 msgstr ""
+"¿Estas aquí para canjear un cupón?<br/>Por favor escribe el numero del cupón "
+"que deseas canjear."
 
 #: system/scripts/npcs/tir/bebhinn.cs:59
 msgid "Exchange Coupon"
-msgstr ""
+msgstr "Canjear Cupón"
 
 #: system/scripts/npcs/tir/bebhinn.cs:59
 msgid "Enter your coupon number"
-msgstr ""
+msgstr "Escribe el numero de tu cupón"
 
 #: system/scripts/npcs/tir/bebhinn.cs:67
 msgid ""
 "I checked the number at our Head Office, and they say this coupon does not "
 "exist.<br/>Please double check the coupon number."
 msgstr ""
+"Revisé el numero en la oficina, y por lo visto éste cupón no existe.<br/>Por "
+"favor revisa bien el numero que me has dado."
 
 #: system/scripts/npcs/tir/bebhinn.cs:77
 msgid ""
 "So, does that mean you're looking for a Personal Shop License then?<br/>You "
 "must have something you want to sell around here!<br/>Hahaha..."
 msgstr ""
+"Así que ¿Buscas una Licencia de Tienda Personal?<br/>¡Debes tener algo que "
+"vender por estos lados!<br/>Jajaja…"
 
 #: system/scripts/npcs/tir/bebhinn.cs:93
 msgid "My name is Bebhinn. Don't forget it!"
-msgstr ""
+msgstr "Mi nombre es Bebhinn. ¡No lo olvides!"
 
 #: system/scripts/npcs/tir/bebhinn.cs:98
 msgid ""
@@ -16604,39 +16669,39 @@ msgstr ""
 
 #: system/scripts/npcs/tir/caitin.cs:23
 msgid "I think this is the first time we've met. Nice to meet you!"
-msgstr ""
+msgstr "Creo que es la primera vez que te veo. ¡Un gusto conocerte!"
 
 #: system/scripts/npcs/tir/caitin.cs:24
 msgid "We've met before, right? Nice to meet you."
-msgstr ""
+msgstr "Nos hemos visto antes ¿verdad? que gusto verte otra vez."
 
 #: system/scripts/npcs/tir/caitin.cs:28
 msgid "Hmm... Sales are low today... That isn't good."
-msgstr ""
+msgstr "Hmm.. Que mal, las ventas han disminuido."
 
 #: system/scripts/npcs/tir/caitin.cs:29
 msgid "I am a little tired."
-msgstr ""
+msgstr "Estoy algo cansada."
 
 #: system/scripts/npcs/tir/caitin.cs:30
 msgid "I have to finish these bills... I'm already behind schedule."
-msgstr ""
+msgstr "Tengo que terminar estas cuentas ... ya estoy retrasada."
 
 #: system/scripts/npcs/tir/caitin.cs:31
 msgid "I must have had a bad dream."
-msgstr ""
+msgstr "Debo haber tenido un mal sueño."
 
 #: system/scripts/npcs/tir/caitin.cs:32
 msgid "It's about time for customers to start coming in."
-msgstr ""
+msgstr "Es cuestión de tiempo para que los clientes empiecen a llegar."
 
 #: system/scripts/npcs/tir/caitin.cs:33
 msgid "My body feels stiff all over."
-msgstr ""
+msgstr "Mi cuerpo se siente rígido por todas partes."
 
 #: system/scripts/npcs/tir/caitin.cs:34
 msgid "These vegetables are spoiling..."
-msgstr ""
+msgstr "Estos vegetales se están estropeando..."
 
 #: system/scripts/npcs/tir/caitin.cs:39
 msgid ""
@@ -16645,6 +16710,10 @@ msgid ""
 "her hands and walks toward you, you detect the faint scent of cookie dough "
 "and flowers."
 msgstr ""
+"Una joven que vierte harina en un bol te sonríe al verte entrar a la "
+"tienda<br/>Su rostro es adorable y sus ojos brillan intensamente<br/>A "
+"medida que se limpia las manos y camina hacia ti, logras detectar un leve "
+"aroma a masa para galletas y flores."
 
 #: system/scripts/npcs/tir/caitin.cs:49
 msgid ""
@@ -17096,46 +17165,49 @@ msgid ""
 "years older than I am?<br/>Let's just say we're the same age. You don't mind "
 "do ya?"
 msgstr ""
+"Que gusto encontrarte, soy Deian.<br/>No te ves tan viejo, ¿Quizás uno que "
+"otro año más viejo que yo?<br/>Digamos que tenemos la misma edad ¿No te "
+"molesta, verdad?"
 
 #: system/scripts/npcs/tir/deian.cs:27
 msgid "Nice to meet you again."
-msgstr ""
+msgstr "Que gusto encontrarte nuevamente."
 
 #: system/scripts/npcs/tir/deian.cs:30
 msgid "Another day... another boring day in the countryside."
-msgstr ""
+msgstr "Otro día ... otro día aburrido en el campo."
 
 #: system/scripts/npcs/tir/deian.cs:31
 msgid "Baa! Baa!"
-msgstr ""
+msgstr "¡Baa!"
 
 #: system/scripts/npcs/tir/deian.cs:32
 msgid "Geez, these sheep are a pain in the neck."
-msgstr ""
+msgstr "Caray, estas ovejas son un dolor en el cuello."
 
 #: system/scripts/npcs/tir/deian.cs:33
 msgid "Hey, this way!"
-msgstr ""
+msgstr "¡Hey, por aquí!"
 
 #: system/scripts/npcs/tir/deian.cs:34
 msgid "I don't understand. I have one extra..."
-msgstr ""
+msgstr "No entiendo. Tengo una oveja extra ..."
 
 #: system/scripts/npcs/tir/deian.cs:35
 msgid "I'm so bored. There's just nothing exciting around here."
-msgstr ""
+msgstr "Estoy tan aburrido. Simplemente no hay nada interesante por aquí."
 
 #: system/scripts/npcs/tir/deian.cs:36
 msgid "It's amazing how fast they grow feeding on grass."
-msgstr ""
+msgstr "Es increíble lo rápido que crecen alimentándose de hierba."
 
 #: system/scripts/npcs/tir/deian.cs:37
 msgid "I wonder if I could buy a house with my savings yet..."
-msgstr ""
+msgstr "Me pregunto si ya puedo comprar una casa con mis ahorros…"
 
 #: system/scripts/npcs/tir/deian.cs:38
 msgid "What the... Now there's one missing!"
-msgstr ""
+msgstr "¡Que rayos!… !Ahora hay una oveja perdida!"
 
 #: system/scripts/npcs/tir/deian.cs:45
 msgid ""
@@ -17145,22 +17217,34 @@ msgid ""
 "strong from his daily work.<br/>Though he's young, he peers at you with so "
 "much confidence it almost seems like arrogance."
 msgstr ""
+"Un adolescente que lleva un bastón de pastor cuida un rebaño de ovejas.<br/"
+">De vez en cuando, grita a las ovejas que se alejan demasiado, y su voz se "
+"quiebra cada vez que lo hace.<br/>Su piel es bronceada y sus músculos son "
+"fuertes debido al duro trabajo que lleva a diario.<br/>A pesar de ser joven, "
+"se asoma hacia uno con una confianza que parece arrogancia."
 
 #: system/scripts/npcs/tir/deian.cs:56
 msgid ""
 "Eh? <username/>...<br/>You've become the Guardian of Erinn?<br/>So fast!<br/"
 ">I'm still trying to become a Warrior!"
 msgstr ""
+"<username/>...<br/>¿Te has convertido en el Guardian de Erinn?<br/>¡Qué "
+"rápido!<br/>¡Mientras que yo aún estoy tratando de convertirme en un "
+"guerrero!"
 
 #: system/scripts/npcs/tir/deian.cs:57
 msgid ""
 "Good for you.<br/>Just make sure you leave me some work to do for when I "
 "become a Warrior.<br/>Wow, must've been tough."
 msgstr ""
+"Bien por ti.<br/>Sólo asegúrate de dejarme algo de trabajo para cuando me "
+"convierta en un guerrero.<br/>Vaya, eso debió ser difícil."
 
 #: system/scripts/npcs/tir/deian.cs:63
 msgid "I got nothing much, except for some quest scrolls. Are you interested?"
 msgstr ""
+"No tengo mucho para ofrecer, excepto éstos pergaminos con misiones. ¿Te "
+"interesa alguno de ellos?"
 
 #: system/scripts/npcs/tir/deian.cs:68
 msgid ""
@@ -17169,24 +17253,34 @@ msgid ""
 "times you can upgrade that tiem and what type of upgrade it is before you "
 "give it to me... <upgrade />"
 msgstr ""
+"¡Mejoras! ¿Quién más podría saber más de eso que el gran Deian? Hehe…<br/"
+">Ahora ¿Que objeto quieres mejorar?<br/>No olvides revisar cuantas veces "
+"puedes mejorar ese objeto y que tipo de mejora es antes de pedírmelo… "
+"<upgrade/>"
 
 #: system/scripts/npcs/tir/deian.cs:79
 msgid ""
 "Yes! Success!<br/>Honestly, I am a little surprised myself.<br/>Would you "
 "like some more upgrades? I'm starting to enjoy this."
 msgstr ""
+"¡Genial!<br/>Honestamente, estoy un poco sorprendido de mi mismo.<br/"
+">¿Quieres hacer mas mejoras? estoy comenzando a disfrutar de ésto."
 
 #: system/scripts/npcs/tir/deian.cs:84
 msgid ""
 "Come and see me again.<br/>I just discovered I have a new talent. Thanks to "
 "you!"
 msgstr ""
+"Ven a verme cuando quieras.<br/>¡He descubierto un nuevo talento y todo "
+"gracias a ti!"
 
 #: system/scripts/npcs/tir/deian.cs:96
 msgid ""
 "Yeah, yeah. I'm a mere shepherd...for now.<br/>But I will soon be a mighty "
 "warrior!<br/>"
 msgstr ""
+"Sí, sí. Soy un simple pastor...por ahora.<br/>¡Pero pronto voy a ser un "
+"poderoso guerrero!<br/>"
 
 #: system/scripts/npcs/tir/deian.cs:102
 msgid ""
@@ -17542,15 +17636,15 @@ msgstr ""
 
 #: system/scripts/npcs/tir/deian.cs:321
 msgid "Gathering Tools"
-msgstr ""
+msgstr "Herramientas de recolección"
 
 #: system/scripts/npcs/tir/devcat.cs:21
 msgid "Meeeoow."
-msgstr ""
+msgstr "Miau."
 
 #: system/scripts/npcs/tir/dilys.cs:24 system/scripts/npcs/tir/dilys.cs:40
 msgid "Welcome to the Healer's House."
-msgstr ""
+msgstr "Te doy la bienvenida a la casa del curandero."
 
 #: system/scripts/npcs/tir/dilys.cs:25
 msgid "Have you been here before?<br/>You look familiar."
@@ -18565,31 +18659,35 @@ msgstr ""
 
 #: system/scripts/npcs/tir/endelyon.cs:26
 msgid "Hm... Something doesn't feel right."
-msgstr ""
+msgstr "Hm… Algo no se siente bien."
 
 #: system/scripts/npcs/tir/endelyon.cs:27
 msgid "Why do people like such things?"
-msgstr ""
+msgstr "¿Por qué la gente aprecia esa clase de cosas?"
 
 #: system/scripts/npcs/tir/endelyon.cs:28
 msgid "It's so hard to do this all by myself!"
-msgstr ""
+msgstr "¡Es tan difícil hacer todo por mi cuenta!"
 
 #: system/scripts/npcs/tir/endelyon.cs:29
 msgid "I really need some help here..."
-msgstr ""
+msgstr "Realmente necesito un poco de ayuda aquí..."
 
 #: system/scripts/npcs/tir/endelyon.cs:36
 msgid ""
 "An elegant young woman in the simple black dress of a<br/>Lymilark priestess "
 "stands in front of the church."
 msgstr ""
+"Una mujer joven y elegante, lleva puesto un vestido negro y simple,<br/"
+">bastante típico de una sacerdotisa de Lymilark."
 
 #: system/scripts/npcs/tir/endelyon.cs:46
 msgid ""
 "I already heard the news! You became the Guardian of Erinn.<br/>The whole "
 "town seems to be talking about it. Hehe...<br/>Congratulations!"
 msgstr ""
+"¡Ya oí la noticia! Te has convertido en el guardián de Erinn.<br/>Toda la "
+"ciudad parece estar hablando sobre ello, jeje…<br/>¡Felicidades!"
 
 #: system/scripts/npcs/tir/endelyon.cs:56
 msgid ""
@@ -18597,22 +18695,29 @@ msgid ""
 "can, but if you still want me to, I'll give it a try.<br/>Please choose an "
 "item to modify. <upgrade />"
 msgstr ""
+"¿Me estás pidiendo ... modificar un objeto?<br/>Honestamente, no estoy "
+"segura de poder, pero si quieres puedo hacer el intento.<br/>Por favor "
+"selecciona el objeto que deseas que modifique. <upgrade/>"
 
 #: system/scripts/npcs/tir/endelyon.cs:67
 msgid ""
 "That came out better than I thought.<br/>Was it supposed to be this easy?<br/"
 ">Do you want to modify anything else?"
 msgstr ""
+"Eso resultó mejor de lo que esperaba.<br/>¿Debía ser así de fácil?<br/"
+">¿Deseas modificar algo más?"
 
 #: system/scripts/npcs/tir/endelyon.cs:72
 msgid ""
 "Do you want me to stop...? Well, then... Next time...<br/><upgrade "
 "hide='true'/>"
 msgstr ""
+"¿Quieres que me detenga...? Bueno, entonces... Para la próxima vez…<br/"
+"><upgrade hide='true'/>"
 
 #: system/scripts/npcs/tir/endelyon.cs:85
 msgid "I don't have much knowledge, but I am here if you need help."
-msgstr ""
+msgstr "No tengo mucho conocimiento, pero aquí estoy si necesitas ayuda."
 
 #: system/scripts/npcs/tir/endelyon.cs:91
 msgid ""
@@ -18984,56 +19089,60 @@ msgstr ""
 
 #: system/scripts/npcs/tir/ferghus.cs:24
 msgid "Are you new here? Good to see you."
-msgstr ""
+msgstr "¿Eres Nuevo por aquí? Es un gusto conocerte."
 
 #: system/scripts/npcs/tir/ferghus.cs:25
 msgid "Have we met? You look familiar to me."
-msgstr ""
+msgstr "¿Nos conocemos? Te ves familiar para mi."
 
 #: system/scripts/npcs/tir/ferghus.cs:27 system/scripts/npcs/tir/trefor.cs:27
 msgid "(Spits out a loogie)"
-msgstr ""
+msgstr "(Escupe)"
 
 #: system/scripts/npcs/tir/ferghus.cs:28
 msgid "Beard! Oh, beard! A true man never forgets how to grow a beard, yeah!"
 msgstr ""
+"¡Barba! ¡oh, la barba! ¡Un hombre de verdad nunca olvida como cuidar su "
+"barba, si!"
 
 #: system/scripts/npcs/tir/ferghus.cs:29
 msgid ""
 "How come they are so late? I've been expecting armor customers for hours now."
 msgstr ""
+"He estado esperando durante horas por algún cliente que me compre armaduras."
 
 #: system/scripts/npcs/tir/ferghus.cs:30
 msgid "Hrrrm"
-msgstr ""
+msgstr "Hrrrm"
 
 #: system/scripts/npcs/tir/ferghus.cs:31
 msgid "I am running out of Iron Ore. I guess I should wait for more."
-msgstr ""
+msgstr "Me estoy quedando sin hierro. Supongo que debería esperar por más."
 
 #: system/scripts/npcs/tir/ferghus.cs:32
 msgid "I feel like working while singing songs."
-msgstr ""
+msgstr "Siento ganas de trabajar mientras canto alguna canción."
 
 #: system/scripts/npcs/tir/ferghus.cs:33
 msgid "I probably did too much hammering yesterday. Now my arm is sore."
 msgstr ""
+"Probablemente hice demasiado martilleo ayer. Ahora tengo el brazo dolorido."
 
 #: system/scripts/npcs/tir/ferghus.cs:34
 msgid "I really need a pair of bellows... The sooner the better."
-msgstr ""
+msgstr "Realmente necesito un par de fuelles... Cuanto antes, mejor."
 
 #: system/scripts/npcs/tir/ferghus.cs:35
 msgid "Ouch, I yawned too big. I nearly ripped my mouth open!"
-msgstr ""
+msgstr "Ay, Bostecé demasiado… !Casi se me cae la mandíbula!"
 
 #: system/scripts/npcs/tir/ferghus.cs:36
 msgid "Scratching"
-msgstr ""
+msgstr "(Rascándose)"
 
 #: system/scripts/npcs/tir/ferghus.cs:37
 msgid "What am I going to make today?"
-msgstr ""
+msgstr "¿Qué voy a crear hoy?"
 
 #: system/scripts/npcs/tir/ferghus.cs:44
 msgid ""
@@ -19043,25 +19152,34 @@ msgid ""
 "experience.<br/>The wide-shouldered man keeps humming with a deep voice "
 "while his muscular torso swings gently to the rhythm of the tune."
 msgstr ""
+"Su tez de bronce brilla con un resplandor de vitalidad. Su contorno facial "
+"distintivo termina con una mandíbula fuerte y cubierta en barba oscura.<br/"
+">La primera impresión muestra claramente que es un herrero con años de "
+"experiencia.<br/>El hombre de amplios hombros tararea con una voz profunda, "
+"mientras que su torso musculoso se balancea suavemente al ritmo del tarareo."
 
 #: system/scripts/npcs/tir/ferghus.cs:46
 msgid "Welcome to my Blacksmith's Shop."
-msgstr ""
+msgstr "Te doy la bienvenida a la tienda del Herrero."
 
 #: system/scripts/npcs/tir/ferghus.cs:55
 msgid ""
 "Hm... <username/>, the Guardian of Erinn?<br/>If you want, I could guard "
 "your weapons."
 msgstr ""
+"Hm... ¿<username/>, el Guardian de Erinn?<br/>Si así lo gustas, puedo "
+"almacenar tus armas."
 
 #: system/scripts/npcs/tir/ferghus.cs:56
 msgid ""
 "...If you have any weapons that<br/>have become dull, I'll take care of it..."
 msgstr ""
+"...Si tienes algún arma que se ha vuelto aburrida para ti,<br/>yo puedo "
+"cuidar de ella…"
 
 #: system/scripts/npcs/tir/ferghus.cs:62
 msgid "Looking for a weapon?<br/>Or armor?"
-msgstr ""
+msgstr "¿Buscar un arma?<br/>¿Quizás una armadura?"
 
 #: system/scripts/npcs/tir/ferghus.cs:67
 msgid ""
@@ -19071,52 +19189,61 @@ msgid ""
 "big city. I can't guarantee anything.<br/><repair rate='90' stringid='(*/"
 "smith_repairable/*)' />"
 msgstr ""
+"Si quieres una armadura, kits o armas reparados, has venido al lugar "
+"correcto.<br/>A veces cometo errores, pero ofrezco los mejores precios para "
+"los trabajos de reparación.<br/>Para objetos raros y caros, deberías ir a "
+"una ciudad más grande, no puedo garantizarte nada.<br/><repair rate='90' "
+"stringid='(*/smith_repairable/*)' />"
 
 #: system/scripts/npcs/tir/ferghus.cs:80
 msgid "Haha. You don't have enough Gold to repair that."
-msgstr ""
+msgstr "Jaja. No tienes suficiente oro para reparar eso."
 
 #: system/scripts/npcs/tir/ferghus.cs:81
 msgid "Well, you have to bring more money to have it fixed."
-msgstr ""
+msgstr "Bueno, tienes que traer más dinero para arreglar eso."
 
 #: system/scripts/npcs/tir/ferghus.cs:82
 msgid "Do you have the Gold?"
-msgstr ""
+msgstr "¿Tienes algo de oro?"
 
 #: system/scripts/npcs/tir/ferghus.cs:89
 msgid "Alright! 1 Point repaired!"
-msgstr ""
+msgstr "!Todo bien! 1 punto reparado."
 
 #: system/scripts/npcs/tir/ferghus.cs:90
 msgid "Durability rose 1 point."
-msgstr ""
+msgstr "La durabilidad subió 1 punto."
 
 #: system/scripts/npcs/tir/ferghus.cs:91
 msgid "Finished 1 point repair."
-msgstr ""
+msgstr "He terminado de reparar 1 punto satisfactoriamente."
 
 #: system/scripts/npcs/tir/ferghus.cs:94
 msgid "Hmm... The repair didn't go well. Sorry..."
-msgstr ""
+msgstr "Hmm... La reparación no ha resultado bien. Lo siento..."
 
 #: system/scripts/npcs/tir/ferghus.cs:99
 msgid "Alright! It's perfectly repaired."
-msgstr ""
+msgstr "¡Todo bien! Tu objeto ha sido reparado perfectamente."
 
 #: system/scripts/npcs/tir/ferghus.cs:102
 #, csharp-format
 msgid "Repair is over.<br/>Unfortunately, I made {0} mistake.<br/>"
 msgid_plural "Repair is over.<br/>Unfortunately, I made {0} mistakes.<br/>"
 msgstr[0] ""
+"La reparación ha terminado.<br/>Desafortunadamente, he cometido {0} error."
+"<br/>"
 msgstr[1] ""
+"La reparación ha terminado.<br/>Desafortunadamente, he cometido {0} errores."
+"<br/>"
 
 #: system/scripts/npcs/tir/ferghus.cs:103
 #, csharp-format
 msgid "Only {0} point got repaired."
 msgid_plural "Only {0} points got repaired."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Solo {0} punto fue reparado."
+msgstr[1] "Solo {0} puntos fueron reparados."
 
 #: system/scripts/npcs/tir/ferghus.cs:108
 msgid ""
@@ -19124,10 +19251,13 @@ msgid ""
 "the Holy Water of Lymilark?<br/>I don't know why but I make fewer "
 "mistakes<br/>while repairing blessed items. Haha."
 msgstr ""
+"<repair hide='true'/>Por cierto, ¿Sabías que puedes bendecir tus objetos con "
+"agua bendita de Lymilark?<br/>No sé por qué, pero cometo menos errores "
+"cuando<br/>tengo que reparar objetos bendecidos. Jaja."
 
 #: system/scripts/npcs/tir/ferghus.cs:109
 msgid "Well, come again when you have items to fix."
-msgstr ""
+msgstr "Bueno, regresa conmigo cuando tengas objetos para reparar."
 
 #: system/scripts/npcs/tir/ferghus.cs:113
 msgid ""
@@ -19135,20 +19265,26 @@ msgid ""
 "modifications are different depending on the items.<br/>When I modify them, "
 "my hands never slip or make mistakes. So don't worry. Trust me.<upgrade />"
 msgstr ""
+"Selecciona el objeto que deseas que modifique.<br/>El numero y tipo de "
+"modificaciones son diferentes dependiendo del objeto.<br/>Cuando se trata de "
+"modificar objetos, mis manos nunca cometen errores. Así que no te preocupes, "
+"puedes confiar en mi.<upgrade />"
 
 #: system/scripts/npcs/tir/ferghus.cs:128
 msgid ""
 "If you have something to modify, let me know anytime.<upgrade hide='true'/>"
 msgstr ""
+"Si tienes algo más que desees modificar, házmelo saber en cualquier momento."
+"<upgrade hide='true'/>"
 
 #: system/scripts/npcs/tir/ferghus.cs:132
 msgid "Goodbye, Ferghus. I'll see you later!"
-msgstr ""
+msgstr "¡Adios Ferghus, nos vemos luego!"
 
 #: system/scripts/npcs/tir/ferghus.cs:140
 msgid ""
 "I'm the blacksmith of Tir Chonaill. We'll see each other often, <username/>."
-msgstr ""
+msgstr "Soy el herrero de Tir Chonaill. Nos veremos a menudo, <username/>."
 
 #: system/scripts/npcs/tir/ferghus.cs:146
 msgid ""
@@ -19623,15 +19759,15 @@ msgstr ""
 
 #: system/scripts/npcs/tir/goro.cs:55
 msgid "Battle Arena"
-msgstr ""
+msgstr "Arena de batalla"
 
 #: system/scripts/npcs/tir/goro.cs:55
 msgid "Arena Coin"
-msgstr ""
+msgstr "Moneda para Arena"
 
 #: system/scripts/npcs/tir/goro.cs:55
 msgid "Talking Goblin"
-msgstr ""
+msgstr "Goblin Parlante"
 
 #: system/scripts/npcs/tir/goro.cs:62
 msgid ""
@@ -19725,7 +19861,7 @@ msgstr ""
 
 #: system/scripts/npcs/tir/lassar.cs:28
 msgid "...."
-msgstr ""
+msgstr "…."
 
 #: system/scripts/npcs/tir/lassar.cs:29
 msgid "And I have to supervise an advancement test."
@@ -24198,6 +24334,9 @@ msgid ""
 "<br/>we need to talk about it first.<br/>You know you should ask me with the "
 "'Skills' keyword, right?"
 msgstr ""
+"Si estás aquí por el mensaje acerca de la habilidad de descanso,<br/>debemos "
+"hablar en detalle acerca de ésta.<br/>¿Sabes que deberías preguntarme con la "
+"palabra clave ‘Habilidad’, verdad?"
 
 #: system/scripts/quests/beginner_uladh/200009_lets_learn_the_resting_skill.cs:48
 msgid ""
@@ -24205,12 +24344,18 @@ msgid ""
 "to rejuvenate yourself both mentally and physically by resting.<br/>Do you "
 "know about the Resting skill?<br/>If not, I'll tell you about it."
 msgstr ""
+"Primero que nada, te doy la bienvenida al Hotel. Aquí es donde descansan los "
+"viajeros cansados.<br/>Descansar es importante para rejuvenecerse tanto "
+"mental como físicamente.<br/>¿Sabes algo de la habilidad Descansar?<br/>Si "
+"no lo sabes, yo te explicaré como va la cosa."
 
 #: system/scripts/quests/beginner_uladh/200009_lets_learn_the_resting_skill.cs:49
 msgid ""
 "Now, open the Skill window. Press the 'Skills' button at the bottom of the "
 "screen.<br/>Or, just press 'S'."
 msgstr ""
+"Ahora, abre la ventana de Habilidades. Presiona el botón ‘Habilidades’ en el "
+"fondo de la pantalla.<br/>O simplemente presiona ‘Z’."
 
 #: system/scripts/quests/beginner_uladh/200009_lets_learn_the_resting_skill.cs:50
 msgid ""
@@ -24219,6 +24364,10 @@ msgid ""
 "top of the screen and use the Function keys as hotkeys.<br/>In my case, I "
 "use F1 to activate it."
 msgstr ""
+"¿Puedes ver la habilidad Descansar? No puedes usarla ahora porque estamos "
+"hablando.<br/>Puedes activarla desde la ventana de Habilidades o<br/> "
+"arrastrar el icono de la habilidad a tus accesos rápidos arriba en la "
+"pantalla.<br/>En mi caso, utilizo F1 para activarlo."
 
 #: system/scripts/quests/beginner_uladh/200009_lets_learn_the_resting_skill.cs:51
 msgid ""
@@ -24226,14 +24375,18 @@ msgid ""
 ">But it is also useful to recover HP,<br/>and it's good to heal wounds, "
 "although it does take longer."
 msgstr ""
+"Usualmente, Descansar se utiliza cuando necesitas recuperar RES.<br/>Pero "
+"también es útil para recuperar PV,<br/>y también lo es para sanar heridas, "
+"aunque eso suele tardar bastante."
 
 #: system/scripts/quests/beginner_uladh/200009_lets_learn_the_resting_skill.cs:53
 msgid "Anyway, I don't understand why so many people ask me about skills."
 msgstr ""
+"Como sea, aún no entiendo porque tanta gente me pregunta sobre Habilidades…."
 
 #: system/scripts/quests/beginner_uladh/200024_caution_against_fire.cs:13
 msgid "Caution against Fire"
-msgstr ""
+msgstr "Precaución contra Incendios"
 
 #: system/scripts/quests/beginner_uladh/200024_caution_against_fire.cs:14
 msgid ""
@@ -24243,19 +24396,24 @@ msgid ""
 "class on fire safety. I will give you a book that will raise your Campfire "
 "skill rank. - Trefor -"
 msgstr ""
+"¿Hola? Soy Trefor. ¿No es divertido tener una fogata? Que no se te olvide "
+"tomar precauciones contra incendios. Sería un gran problema si generas un "
+"incendio mientras haces una fogata en la espesura del bosque. Ven a "
+"visitarme para una clase de seguridad contra incendios. Yo te daré un libro "
+"que va a aumentar tu rango en la habilidad Fogata. - Trefor -"
 
 #: system/scripts/quests/beginner_uladh/200024_caution_against_fire.cs:20
 msgid "Talk with Trefor of Tir Chonaill"
-msgstr ""
+msgstr "Hablar con Trefor en Tir Chonaill"
 
 #: system/scripts/quests/beginner_uladh/200024_caution_against_fire.cs:33
 msgid "(Missing dialog: Advice about Campfire)"
-msgstr ""
+msgstr "(Dialogo no programado: Sugerencia para fogatas)"
 
 #: system/scripts/quests/beginner_uladh/200043_reach_level_20.cs:13
 #: system/scripts/quests/beginner_uladh/200043_reach_level_20.cs:19
 msgid "Reach Level 20"
-msgstr ""
+msgstr "Llegar a nivel 20"
 
 #: system/scripts/quests/beginner_uladh/200043_reach_level_20.cs:14
 msgid ""
@@ -24289,12 +24447,12 @@ msgstr ""
 
 #: system/scripts/quests/beginner_uladh/200044_reach_level_30.cs:34
 msgid "Good job reaching Level 30!"
-msgstr ""
+msgstr "¡Buen trabajo alcanzando el nivel 30!"
 
 #: system/scripts/quests/beginner_uladh/200045_reach_level_40.cs:13
 #: system/scripts/quests/beginner_uladh/200045_reach_level_40.cs:19
 msgid "Reach Level 40"
-msgstr ""
+msgstr "Llegar a nivel 40"
 
 #: system/scripts/quests/beginner_uladh/200045_reach_level_40.cs:14
 msgid ""
@@ -24308,11 +24466,11 @@ msgstr ""
 #: system/scripts/quests/beginner_uladh/200076_adulthood_cerenomy.cs:18
 #: system/scripts/quests/beginner_uladh/duncans_praise.cs:32
 msgid "Talk with Chief Duncan"
-msgstr ""
+msgstr "Hablar con Duncan"
 
 #: system/scripts/quests/beginner_uladh/200045_reach_level_40.cs:34
 msgid "Good job reaching Level 40!"
-msgstr ""
+msgstr "¡Buen trabajo alcanzando el nivel 40!"
 
 #: system/scripts/quests/beginner_uladh/200075_magic_mastery_lesson.cs:12
 msgid "Magic Mastery Lesson"
@@ -24388,7 +24546,7 @@ msgstr ""
 
 #: system/scripts/quests/beginner_uladh/200079_production_mastery.cs:13
 msgid "Do you know Production Mastery skill?"
-msgstr ""
+msgstr "¿Conoces la habilidad Dominio de Producción?"
 
 #: system/scripts/quests/beginner_uladh/200079_production_mastery.cs:14
 msgid ""
@@ -24396,16 +24554,19 @@ msgid ""
 "you curious about the Production Mastery skill? If you are, meet me in front "
 "of the windmill in Tir Chonaill~"
 msgstr ""
+"¿Cómo estas? Soy Alissa. Ayudo en el Molino de Viento de Tir Chonaill. ¿No "
+"tienes curiosidad acerca de la habilidad Dominio de Producción? Si es así, "
+"me puedes encontrar frente al molino de viento en Tir Chonaill ~"
 
 #: system/scripts/quests/beginner_uladh/200079_production_mastery.cs:19
 msgid "Talk with Alissa"
-msgstr ""
+msgstr "Hablar con Alissa"
 
 #: system/scripts/quests/beginner_uladh/200079_production_mastery.cs:33
 msgid ""
 "Hey, it's you, <username/>!<br/>I was wondering why you didn't come to see "
 "me."
-msgstr ""
+msgstr "¡Hey <username/>!<br/>Ya me estaba preguntando porque no llegabas."
 
 #: system/scripts/quests/beginner_uladh/200079_production_mastery.cs:34
 msgid ""
@@ -24413,12 +24574,18 @@ msgid ""
 "needed for both gathering and crafting.<br/>You can make things more easily "
 "if you know this skill."
 msgstr ""
+"¿Haz escuchado sobre la habilidad Dominio de Producción?<br/>Es una "
+"habilidad que requiere recolección y elaboración.<br/>Puedes hacer todo tipo "
+"de cosas fácilmente si aprendes ésta habilidad."
 
 #: system/scripts/quests/beginner_uladh/200079_production_mastery.cs:35
 msgid ""
 "You will have more Stamina,<br/>and you will have a better success rate at "
 "gathering and crafting.<br/>Your dexterity will increase as well."
 msgstr ""
+"Tendrás más RES,<br/>y tendrás mayor tasa de éxito en la recolección y "
+"elaboración de objetos.<br/>Oh, casi lo olvido, tu DES también incrementará "
+"con ésta habilidad."
 
 #: system/scripts/quests/beginner_uladh/200079_production_mastery.cs:36
 msgid ""
@@ -24426,12 +24593,17 @@ msgid ""
 "automatically whenever you gather things or do some crafting,<br/>so you "
 "don't need to worry about learning it."
 msgstr ""
+"Ten en cuenta que no es una habilidad que se active manualmente.<br/>La "
+"habilidad se activará automáticamente cada vez que recolectes o elabores "
+"objetos,<br/>Así que no necesitas preocuparte mucho ¿Vale?"
 
 #: system/scripts/quests/beginner_uladh/200079_production_mastery.cs:37
 msgid ""
 "Now that I told you about the skill,<br/>you will be able to get the "
 "Production Mastery skill when you complete the quest."
 msgstr ""
+"Ahora que te he contado sobre ésta habilidad,<br/>podrás obtener Dominio de "
+"Producción cuando completes la misión."
 
 #: system/scripts/quests/beginner_uladh/202001_naos_letter.cs:13
 msgid "Nao's Letter of Introduction"
@@ -24878,7 +25050,7 @@ msgstr "Si tienes algo más que preguntar, házmelo saber."
 
 #: system/scripts/quests/beginner_uladh/202026_campfire.cs:12
 msgid "Campfire"
-msgstr ""
+msgstr "Fogata"
 
 #: system/scripts/quests/beginner_uladh/202026_campfire.cs:13
 msgid ""
@@ -24886,28 +25058,32 @@ msgid ""
 "may find helpful. Please drop by and talk to me, while checking out the "
 "place. - Piaras -"
 msgstr ""
+"¿Alguna vez has estado en un Hotel? Tengo algo bastante útil que decirte. "
+"Por favor, pasa por aquí para conversar. - Piaras -"
 
 #: system/scripts/quests/beginner_uladh/202026_campfire.cs:19
 msgid "Learn about the Campfire skill from Piaras"
-msgstr ""
+msgstr "Aprender sobre la habilidad de Fogata con Piaras"
 
 #: system/scripts/quests/beginner_uladh/202026_campfire.cs:20
 msgid "Learn how to use the Campfire skill from Deian"
-msgstr ""
+msgstr "Aprender como usar la habilidad Fohata con Deian"
 
 #: system/scripts/quests/beginner_uladh/202027_playing_instruments.cs:12
 msgid "Playing Instruments"
-msgstr ""
+msgstr "Tocar Intrumentos"
 
 #: system/scripts/quests/beginner_uladh/202027_playing_instruments.cs:13
 msgid ""
 "This is Endelyon of the Church. If you are interested in instruments, let me "
 "know. - Endelyon -"
 msgstr ""
+"Esta es Endelyon de la Iglesia. Si estás interesado en los instrumentos, "
+"házmelo saber. - Endelyon -"
 
 #: system/scripts/quests/beginner_uladh/202027_playing_instruments.cs:18
 msgid "Talk with Endelyon at the Church"
-msgstr ""
+msgstr "Hablar con Endelyon en la Iglesia"
 
 #: system/scripts/quests/beginner_uladh/202027_playing_instruments.cs:33
 msgid ""
@@ -24917,10 +25093,15 @@ msgid ""
 "<br/>Of course, it requires hours of practice if you plan on bringing tears "
 "to your special someone."
 msgstr ""
+"Ah, estas aquí.<br/>Que las bendiciones de Lymilark estén contigo en cada "
+"paso de tu camino. Algunas personas piensan que es difícil.<br/>Sólo sostén "
+"el instrumento, y serás capaz de reproducir una semblanza de música.<br/"
+">Obviamente requerirás horas de práctica si lo que planeas es sacar lágrimas "
+"a ese alguien especial."
 
 #: system/scripts/quests/beginner_uladh/202030_lets_gather_green_gem.cs:12
 msgid "Let's gather Green Gem"
-msgstr ""
+msgstr "Vamos por una Gema Verde"
 
 #: system/scripts/quests/beginner_uladh/202030_lets_gather_green_gem.cs:13
 msgid ""
@@ -24928,14 +25109,17 @@ msgid ""
 "a hobby of making accessories, and I was making necklaces when I realized "
 "I'm short on Small Green Gems. Can you get me 1? - Bebhinn -"
 msgstr ""
+"Hola, soy Bebhinn del Banco en Tir Chonaill. He tomado un nuevo hobby, "
+"estaba fabricando accesorios y collares cuando me di cuenta de que estoy "
+"corta de pequeñas gemas verdes. ¿Me puede conseguir una? - Bebhinn -"
 
 #: system/scripts/quests/beginner_uladh/202030_lets_gather_green_gem.cs:18
 msgid "Deliver 1 Small Green Gem to Bebhinn"
-msgstr ""
+msgstr "Entregar 1 Gema Verde a Bebhinn"
 
 #: system/scripts/quests/beginner_uladh/202030_lets_gather_green_gem.cs:32
 msgid "Oh hello! Looks like you got my message."
-msgstr ""
+msgstr "¡Oh, hola! Parece que recibiste mi mensaje."
 
 #: system/scripts/quests/beginner_uladh/202030_lets_gather_green_gem.cs:33
 msgid ""
@@ -24943,44 +25127,54 @@ msgid ""
 "necklace!<br/>I found this old guide book while waiting for your<br/"
 ">arrival. It's probably better in your hands."
 msgstr ""
+"¿Es esa una pequeña Gema Verde para mi? ¡Gracias!<br/>¡Ahora podré terminar "
+"mi collar!<br/>Sabes, Encontré un antiguo libro mientras esperaba tu llegada."
+"<br/>Creo que deberías quedártelo."
 
 #: system/scripts/quests/beginner_uladh/202033_gathering_berries.cs:12
 msgid "Gathering Berries"
-msgstr ""
+msgstr "Recolectando Bayas"
 
 #: system/scripts/quests/beginner_uladh/202033_gathering_berries.cs:13
 msgid ""
 "I heard berries are good for losing weight. Can you bring me 1 berry? - "
 "Dilys -"
 msgstr ""
+"He oído que las bayas son buenas para perder peso. ¿Me puedes traer una "
+"baya? - Dilys -"
 
 #: system/scripts/quests/beginner_uladh/202033_gathering_berries.cs:20
 msgid "Talk with Dilys"
-msgstr ""
+msgstr "Hablar con Dilys"
 
 #: system/scripts/quests/beginner_uladh/202033_gathering_berries.cs:21
 msgid "Deliver a Berry to Dilys"
-msgstr ""
+msgstr "Entregar una Baya a Dilys"
 
 #: system/scripts/quests/beginner_uladh/202033_gathering_berries.cs:35
 msgid ""
 "There's been talk recently about how healthy berries are.<br/>Their "
 "qualities have peaked my interest, even about the weight!"
 msgstr ""
+"Se ha hablado recientemente sobre lo sanas son las bayas.<br/>Sus cualidades "
+"han alcanzado mi interés,<br/>¡sobretodo el hecho de que ayudan a bajar de "
+"peso!"
 
 #: system/scripts/quests/beginner_uladh/202033_gathering_berries.cs:36
 msgid "Can you bring me one berry? I'd be very grateful."
-msgstr ""
+msgstr "¿Me puede traer una baya? Estaría muy agradecida."
 
 #: system/scripts/quests/beginner_uladh/202033_gathering_berries.cs:44
 msgid ""
 "Oh thank you so much! I can't wait to try it!<br/>Here, as an exchange, take "
 "these potions I've been working on."
 msgstr ""
+"¡Oh muchas gracias, no puedo esperar a probarla!<br/>Como recompensa, toma "
+"estas pociones en las que he estado trabajando."
 
 #: system/scripts/quests/beginner_uladh/202034_gather_cobweb.cs:12
 msgid "Gather Cobweb"
-msgstr ""
+msgstr "Obtener Telaraña"
 
 #: system/scripts/quests/beginner_uladh/202034_gather_cobweb.cs:13
 msgid ""
@@ -25000,7 +25194,7 @@ msgstr ""
 
 #: system/scripts/quests/beginner_uladh/202035_sheep_shearing.cs:12
 msgid "Sheep-shearing"
-msgstr ""
+msgstr "Esquilar Ovejas"
 
 #: system/scripts/quests/beginner_uladh/202035_sheep_shearing.cs:13
 msgid ""
@@ -25015,11 +25209,11 @@ msgstr ""
 
 #: system/scripts/quests/beginner_uladh/202035_sheep_shearing.cs:19
 msgid "Deliver 5 bundles of wool to Deian"
-msgstr ""
+msgstr "Entregar 5 bultos de lana a Deian"
 
 #: system/scripts/quests/beginner_uladh/202035_sheep_shearing.cs:34
 msgid "Oh thank you for coming, I was dying from boredom..."
-msgstr ""
+msgstr "Oh, gracias por venir, me moría de aburrimiento ..."
 
 #: system/scripts/quests/beginner_uladh/202035_sheep_shearing.cs:35
 msgid ""
@@ -25075,11 +25269,11 @@ msgstr ""
 
 #: system/scripts/quests/beginner_uladh/202041_logging_camp_at_dugald_aisle.cs:19
 msgid "Talk with Tracy"
-msgstr ""
+msgstr "Hablar con Tracy"
 
 #: system/scripts/quests/beginner_uladh/202041_logging_camp_at_dugald_aisle.cs:20
 msgid "Deliver 6 Pieces of Firewood to Tracy"
-msgstr ""
+msgstr "Entregar 6 piezas de Leña a Tracy"
 
 #: system/scripts/quests/beginner_uladh/202041_logging_camp_at_dugald_aisle.cs:37
 msgid "(Missing dialog: Explanation on getting firewood"
@@ -25091,7 +25285,7 @@ msgstr ""
 
 #: system/scripts/quests/beginner_uladh/202042_repair_an_item.cs:12
 msgid "Repairing an Item"
-msgstr ""
+msgstr "Reparar un objeto"
 
 #: system/scripts/quests/beginner_uladh/202042_repair_an_item.cs:13
 msgid ""
@@ -25101,15 +25295,20 @@ msgid ""
 "don't have a lot of takers for this repair offer. I'll give you some EXP, "
 "too, so drop by if you can. - Ferghus -"
 msgstr ""
+"Soy Ferghus, el herrero de Tir Chonaill. He comprado un nuevo Martillo de "
+"herrero, así que para celebrar esta nueva compra, ¿por qué no traes un "
+"objeto que necesites reparar? El nuevo martillo debe ser roto, pero nadie "
+"toma en cuenta mi oferta. Te voy a dar algunos puntos de EXP si aceptas. - "
+"Ferghus -"
 
 #: system/scripts/quests/beginner_uladh/202042_repair_an_item.cs:18
 msgid "Request a repair to Ferghus"
-msgstr ""
+msgstr "Solicitar una reparación a Fergus"
 
 #: system/scripts/quests/beginner_uladh/202043_talk_with_stewart.cs:12
 #: system/scripts/quests/beginner_uladh/202043_talk_with_stewart.cs:18
 msgid "Talk with Stewart"
-msgstr ""
+msgstr "Hablar con Stewart"
 
 #: system/scripts/quests/beginner_uladh/202043_talk_with_stewart.cs:13
 msgid ""
