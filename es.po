@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Hispanogi\n"
 "POT-Creation-Date: 2016-03-16 12:40-0400\n"
-"PO-Revision-Date: 2016-03-20 19:16-0300\n"
+"PO-Revision-Date: 2016-03-21 11:44-0300\n"
 "Last-Translator: Arufonsu\n"
 "Language-Team: \n"
 "Language: es\n"
@@ -1173,128 +1173,128 @@ msgstr "{0}: {1}, Tipo: {2}"
 #: src/ChannelServer/Util/GmCommands.cs:685
 #, csharp-format
 msgid "Results: {0} (Max. {1} shown)"
-msgstr ""
+msgstr "Resultados: {0} (Max. {1} mostrado) "
 
 #: src/ChannelServer/Util/GmCommands.cs:647
 #, csharp-format
 msgid "No skills found for '{0}'."
-msgstr ""
+msgstr "La habilidad {0} no existe."
 
 #: src/ChannelServer/Util/GmCommands.cs:656
 #: src/ChannelServer/Util/GmCommands.cs:682
 #, csharp-format
 msgid "{0}: {1}"
-msgstr ""
+msgstr "{0}: {1}"
 
 #: src/ChannelServer/Util/GmCommands.cs:673
 #, csharp-format
 msgid "No races found for '{0}'."
-msgstr ""
+msgstr "La raza {0} no existe."
 
 #: src/ChannelServer/Util/GmCommands.cs:703
 #, csharp-format
 msgid "Unknown skill id '{0}'."
-msgstr ""
+msgstr "ID de Habilidad {0} es desconocido."
 
 #: src/ChannelServer/Util/GmCommands.cs:714
 #, csharp-format
 msgid "Skill '{0}' not found in database."
-msgstr ""
+msgstr "Habilidad {0} no encontrada en la base de datos."
 
 #: src/ChannelServer/Util/GmCommands.cs:729
 #, csharp-format
 msgid "Skill '{0}' doesn't have rank '{1}'."
-msgstr ""
+msgstr "La habilidad {0} no tiene rango {1}. "
 
 #: src/ChannelServer/Util/GmCommands.cs:736
 #, csharp-format
 msgid "Skill '{0}' added."
-msgstr ""
+msgstr "Habilidad {0} agregada."
 
 #: src/ChannelServer/Util/GmCommands.cs:738
 #, csharp-format
 msgid "Skill '{0}' added by '{1}'."
-msgstr ""
+msgstr "{1} te ha otorgado la habilidad {0}. "
 
 #: src/ChannelServer/Util/GmCommands.cs:764
 #, csharp-format
 msgid "Change successful, new value: {0:0.0}"
-msgstr ""
+msgstr "Cambio efectuado, nuevo valor: {0:0.0}"
 
 #: src/ChannelServer/Util/GmCommands.cs:766
 #: src/ChannelServer/Util/GmCommands.cs:819
 #, csharp-format
 msgid "Your appearance has been changed by {0}."
-msgstr ""
+msgstr "Tu apariencia fue cambiada por {0}."
 
 #: src/ChannelServer/Util/GmCommands.cs:774
 #, csharp-format
 msgid "Your combat power: {0:0.0}"
-msgstr ""
+msgstr "Tu poder de combate: {0:0.0}"
 
 #: src/ChannelServer/Util/GmCommands.cs:776
 #, csharp-format
 msgid "{0}'s combat power: {1:0.0}"
-msgstr ""
+msgstr "El poder de combate de {0} es: {1:0.0}"
 
 #: src/ChannelServer/Util/GmCommands.cs:817
 #, csharp-format
 msgid "Change successful, new value: {0}"
-msgstr ""
+msgstr "Cambio efectuado, nuevo valor: {0}"
 
 #: src/ChannelServer/Util/GmCommands.cs:837
 msgid "Added title."
-msgstr ""
+msgstr "Titulo agregado."
 
 #: src/ChannelServer/Util/GmCommands.cs:839
 #, csharp-format
 msgid "{0} enabled a title for you."
-msgstr ""
+msgstr "{0} te ha otorgado un titulo."
 
 #: src/ChannelServer/Util/GmCommands.cs:861
 #, csharp-format
 msgid "Speed changed to +{0}%."
-msgstr ""
+msgstr "Velocidad cambiada a {0}%."
 
 #: src/ChannelServer/Util/GmCommands.cs:863
 #, csharp-format
 msgid "Your speed has been changed to +{0}% by {1}."
-msgstr ""
+msgstr "{1} ha cambiado tu velocidad a {0}%."
 
 #: src/ChannelServer/Util/GmCommands.cs:881
 #, csharp-format
 msgid "Race '{0}' doesn't exist."
-msgstr ""
+msgstr "La raza '{0}' no existe."
 
 #: src/ChannelServer/Util/GmCommands.cs:911
 msgid "Creatures spawned."
-msgstr ""
+msgstr "Criaturas invocadas."
 
 #: src/ChannelServer/Util/GmCommands.cs:913
 #, csharp-format
 msgid "{0} spawned creatures around you."
-msgstr ""
+msgstr "{0} ha invocado criaturas a tu alrededor."
 
 #: src/ChannelServer/Util/GmCommands.cs:924
 msgid "Game over."
-msgstr ""
+msgstr "Fin del Juego."
 
 #: src/ChannelServer/Util/GmCommands.cs:926
 #, csharp-format
 msgid "You've been killed by {0}."
-msgstr ""
+msgstr "Fuiste asesinado por {0}."
 
 #: src/ChannelServer/Util/GmCommands.cs:933
 #: src/ChannelServer/Util/GmCommands.cs:943
 #: src/ChannelServer/Util/GmCommands.cs:953
 msgid "Reloading, this might take a moment."
-msgstr ""
+msgstr "Recargando, esto puede tomar un tiempo."
 
 #: src/ChannelServer/Util/GmCommands.cs:935
 #: src/ChannelServer/Util/GmCommands.cs:945
 #: src/ChannelServer/Util/GmCommands.cs:955
 msgid "Reload complete."
-msgstr ""
+msgstr "Recarga completa."
 
 #: src/ChannelServer/Util/GmCommands.cs:942
 #: src/ChannelServer/Util/GmCommands.cs:952
@@ -1302,20 +1302,22 @@ msgid ""
 "Beware, reloading should only be used during development, it's not "
 "guaranteed to be safe."
 msgstr ""
+"ADVERTENCIA: Recargar solo debería ser utilizado durante pruebas y "
+"programación, no hay garantía de que sea seguro."
 
 #: src/ChannelServer/Util/GmCommands.cs:973
 #, csharp-format
 msgid "Added {0} AP."
 msgid_plural "Added {0} AP."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Agregaste {0} PH."
+msgstr[1] "Agregaste {0} PHs."
 
 #: src/ChannelServer/Util/GmCommands.cs:975
 #, csharp-format
 msgid "{0} gave you {1} AP."
 msgid_plural "{0} gave you {1} AP."
-msgstr[0] "{0} te ha dado {1} PH."
-msgstr[1] "{0} te ha dado {1} PHs."
+msgstr[0] "{0} te ha otorgado +{1} PH."
+msgstr[1] "{0} te ha otorgado +{1} PHs."
 
 #: src/ChannelServer/Util/GmCommands.cs:987
 msgid "Closed NPC dialog."
@@ -1341,21 +1343,21 @@ msgstr "Mascota desconocida."
 #: src/ChannelServer/Util/GmCommands.cs:1051
 #, csharp-format
 msgid "Added {0} to your account."
-msgstr ""
+msgstr "Agregado {0} a tu cuenta."
 
 #: src/ChannelServer/Util/GmCommands.cs:1055
 #, csharp-format
 msgid "Added {0} to {1}'s account."
-msgstr ""
+msgstr "Agregado {0} a la cuenta de {1}."
 
 #: src/ChannelServer/Util/GmCommands.cs:1056
 #, csharp-format
 msgid "You've received a {0} from '{1}'."
-msgstr ""
+msgstr "{1} te ha otorgado un {0}."
 
 #: src/ChannelServer/Util/GmCommands.cs:1066
 msgid "Healed."
-msgstr ""
+msgstr "Sanado."
 
 #: src/ChannelServer/Util/GmCommands.cs:1068
 #, csharp-format
@@ -3548,7 +3550,7 @@ msgstr ""
 #: system/scripts/npcs/tir/bebhinn.cs:276
 #: system/scripts/npcs/tir/bebhinn.cs:277
 msgid "License"
-msgstr ""
+msgstr "Licencias"
 
 #: system/scripts/npcs/bangor/comgan.cs:23
 msgid ""
@@ -7933,7 +7935,7 @@ msgstr ""
 #: system/scripts/npcs/dunbarton/austeyn.cs:26
 #: system/scripts/npcs/tir/caitin.cs:27
 msgid "*Yawn*"
-msgstr ""
+msgstr "*Bostezo*"
 
 #: system/scripts/npcs/dugald/tracy.cs:41
 msgid ""
@@ -7984,7 +7986,7 @@ msgstr "(Contenido no disponible)"
 #: system/scripts/npcs/dugald/tracy.cs:64 system/scripts/npcs/tir/lassar.cs:136
 #: system/scripts/npcs/tir/malcolm.cs:115 system/scripts/npcs/tir/piaras.cs:62
 msgid "Goodbye, <npcname/>. I'll see you later!"
-msgstr "Hasta luego <username/>."
+msgstr "Adios, <npcname/>. ¡Te veré pronto!"
 
 #: system/scripts/npcs/dugald/tracy.cs:74
 msgid ""
@@ -11178,14 +11180,14 @@ msgstr ""
 #: system/scripts/npcs/dunbarton/manus.cs:316
 #: system/scripts/npcs/dunbarton/manus.cs:317
 msgid "Etc"
-msgstr ""
+msgstr "Etc"
 
 #: system/scripts/npcs/dunbarton/nerys.cs:24
 #: system/scripts/npcs/dunbarton/walter.cs:33
 #: system/scripts/npcs/dunbarton/walter.cs:56
 #: system/scripts/npcs/tir/endelyon.cs:51
 msgid "What are you looking for?"
-msgstr ""
+msgstr "¿Qué estás buscando?"
 
 #: system/scripts/npcs/dunbarton/nerys.cs:25
 msgid "Wait... I think I've met you once before...<br/>If not, sorry."
@@ -12017,7 +12019,7 @@ msgstr ""
 #: system/scripts/npcs/dunbarton/simon.cs:297
 #: system/scripts/npcs/dunbarton/simon.cs:298
 msgid "Robes"
-msgstr ""
+msgstr "Túnicas"
 
 #: system/scripts/npcs/dunbarton/simon.cs:300
 #: system/scripts/npcs/dunbarton/simon.cs:301
@@ -12047,7 +12049,7 @@ msgstr ""
 #: system/scripts/npcs/tir/malcolm.cs:379
 #: system/scripts/npcs/tir/malcolm.cs:380
 msgid "Hats"
-msgstr ""
+msgstr "Sombreros"
 
 #: system/scripts/npcs/dunbarton/simon.cs:341
 #: system/scripts/npcs/dunbarton/simon.cs:342
@@ -12061,7 +12063,7 @@ msgstr ""
 #: system/scripts/npcs/dunbarton/simon.cs:350
 #: system/scripts/npcs/dunbarton/simon.cs:351
 msgid "Clothes"
-msgstr ""
+msgstr "Ropas"
 
 #: system/scripts/npcs/dunbarton/simon.cs:353
 #: system/scripts/npcs/dunbarton/simon.cs:354
@@ -12080,7 +12082,7 @@ msgstr ""
 #: system/scripts/npcs/dunbarton/simon.cs:367
 #: system/scripts/npcs/dunbarton/simon.cs:368
 msgid "Fine Clothes"
-msgstr ""
+msgstr "Ropas finas"
 
 #: system/scripts/npcs/dunbarton/stewart.cs:24
 msgid "Mmm... How can I help you?"
@@ -12564,7 +12566,7 @@ msgstr ""
 #: system/scripts/npcs/tir/lassar.cs:349 system/scripts/npcs/tir/lassar.cs:350
 #: system/scripts/npcs/tir/lassar.cs:351 system/scripts/npcs/tir/lassar.cs:364
 msgid "Magic Items"
-msgstr ""
+msgstr "Objetos Mágicos"
 
 #: system/scripts/npcs/dunbarton/stewart.cs:328
 #: system/scripts/npcs/dunbarton/stewart.cs:329
@@ -12583,12 +12585,12 @@ msgstr ""
 #: system/scripts/npcs/dunbarton/stewart.cs:356
 #: system/scripts/npcs/dunbarton/stewart.cs:357
 msgid "Magic Weapons"
-msgstr ""
+msgstr "Armas Mágicas"
 
 #: system/scripts/npcs/dunbarton/stewart.cs:348
 #: system/scripts/npcs/dunbarton/stewart.cs:349
 msgid "Fomor Scroll"
-msgstr ""
+msgstr "Pergamino demoniaco"
 
 #: system/scripts/npcs/dunbarton/walter.cs:22
 msgid "...Welcome."
@@ -20430,7 +20432,7 @@ msgstr ""
 #: system/scripts/npcs/tir/lassar.cs:353 system/scripts/npcs/tir/lassar.cs:354
 #: system/scripts/npcs/tir/lassar.cs:355
 msgid "Magic Book"
-msgstr ""
+msgstr "Libro Mágico"
 
 #: system/scripts/npcs/tir/lassar.cs:357 system/scripts/npcs/tir/lassar.cs:358
 #: system/scripts/npcs/tir/lassar.cs:359 system/scripts/npcs/tir/lassar.cs:360
@@ -20438,31 +20440,34 @@ msgstr ""
 #: system/scripts/npcs/tir/lassar.cs:369 system/scripts/npcs/tir/lassar.cs:370
 #: system/scripts/npcs/tir/lassar.cs:371
 msgid "Magic Weapon"
-msgstr ""
+msgstr "Arma Mágica"
 
 #: system/scripts/npcs/tir/malcolm.cs:25
 msgid "Welcome to the General Shop. This must be your first visit here."
 msgstr ""
+"Bienvenido a la Tienda General. Por lo que veo, debe ser tu primera visita."
 
 #: system/scripts/npcs/tir/malcolm.cs:26
 msgid "Thank you for coming again."
-msgstr ""
+msgstr "Una vez más, gracias por venir."
 
 #: system/scripts/npcs/tir/malcolm.cs:30
 msgid "Maybe I should wrap it up and call it a day..."
-msgstr ""
+msgstr "Quizás debería envolverlo y llamarlo un día…"
 
 #: system/scripts/npcs/tir/malcolm.cs:31
 msgid "Aww! My legs hurt. My feet are all swollen from standing all day long."
 msgstr ""
+"¡Aww! me duelen las piernas. Mis pies están todos hinchados de tanto estar "
+"de pie."
 
 #: system/scripts/npcs/tir/malcolm.cs:32
 msgid "I wonder what Nora is doing now..."
-msgstr ""
+msgstr "Me pregunto que está haciendo Nora en éstos momentos."
 
 #: system/scripts/npcs/tir/malcolm.cs:33
 msgid "These travelers will buy something sooner or later."
-msgstr ""
+msgstr "Esos viajeros comprarán algo tarde o temprano."
 
 #: system/scripts/npcs/tir/malcolm.cs:40
 msgid ""
@@ -20471,22 +20476,30 @@ msgid ""
 "<br/>He looks like he just came out of a workshop since he's wearing a heavy "
 "leather apron."
 msgstr ""
+"Mientras su delgado rostro le da un aspecto de debilidad,<br/>y sus suaves y "
+"delicadas manos se ven demasiado femeninas,<br/>su cabello largo y dorado le "
+"da un look de lo más genial.<br/>Da la impresión de que recién ha salido de "
+"un taller de trabajo, puesto que lleva un pesado delantal de cuero."
 
 #: system/scripts/npcs/tir/malcolm.cs:51
 msgid ""
 "You're the... Guardian of Erinn?<br/>I don't know what you do exactly,<br/"
 ">but you seem to leave<br/>a really good impression on people."
 msgstr ""
+"Tu eres… ¿El Guardian de Erinn?<br/>No sé que es lo que haces exactamente,"
+"<br/>pero pareces dejar una buena impresión en la gente."
 
 #: system/scripts/npcs/tir/malcolm.cs:52
 msgid "...I'm a bit jealous..."
-msgstr ""
+msgstr "…Estoy un poco celoso…"
 
 #: system/scripts/npcs/tir/malcolm.cs:58
 msgid ""
 "Welcome to <npcname/>'s General Shop.<br/>Look around as much as you wish. "
 "Clothes, accessories and other goods are in stock."
 msgstr ""
+"Te doy la bienvenida a la tienda general de <npcname/>.<br/>Tenemos Ropas, "
+"Accesorios y otros productos en stock."
 
 #: system/scripts/npcs/tir/malcolm.cs:63
 msgid ""
@@ -20494,66 +20507,73 @@ msgid ""
 "Music Instruments and Glasses.<repair rate='95' stringid='(*/misc_repairable/"
 "*)|(*/pouch/bag/*)' />"
 msgstr ""
+"¿Que objeto quieres reparar?<br/>Puedes reparar varios objetos, como "
+"Instrumentos Musicales y Lentes.<repair rate='95' stringid='(*/"
+"misc_repairable/*)|(*/pouch/bag/*)' />"
 
 #: system/scripts/npcs/tir/malcolm.cs:76
 msgid "Sorry, you need more money."
-msgstr ""
+msgstr "Lo siento, pero necesitas más dinero."
 
 #: system/scripts/npcs/tir/malcolm.cs:77
 msgid "I'm sorry but you don't have enough money."
-msgstr ""
+msgstr "Lo lamento, pero no tienes suficiente dinero."
 
 #: system/scripts/npcs/tir/malcolm.cs:78
 msgid ""
 "Um... OK.<br/>If you don't have enough money at the moment, why don't you "
 "come back later?"
 msgstr ""
+"Um… Vale.<br/>Si no tienes suficiente dinero en éstos momentos ¿Por qué no "
+"vuelves más tarde?"
 
 #: system/scripts/npcs/tir/malcolm.cs:85
 msgid "I'm happy to say it's repaired."
-msgstr ""
+msgstr "Me alegra decir que ha sido reparado."
 
 #: system/scripts/npcs/tir/malcolm.cs:86
 msgid "OK, 1 point repair is finished."
-msgstr ""
+msgstr "Vale, se ha reparado 1 punto."
 
 #: system/scripts/npcs/tir/malcolm.cs:87
 msgid "It has been repaired well."
-msgstr ""
+msgstr "El objeto ha sido bien reparado."
 
 #: system/scripts/npcs/tir/malcolm.cs:91
 msgid "Oh no! I'm so sorry."
-msgstr ""
+msgstr "¡Oh no! Lo lamento."
 
 #: system/scripts/npcs/tir/malcolm.cs:92
 msgid "Aw... I'm terribly sorry."
-msgstr ""
+msgstr "Aw… Realmente lo lamento."
 
 #: system/scripts/npcs/tir/malcolm.cs:99
 msgid "The repairing is complete."
-msgstr ""
+msgstr "La reparación esta completa."
 
 #: system/scripts/npcs/tir/malcolm.cs:100
 msgid "Hahaha, it's perfectly repaired."
-msgstr ""
+msgstr "Jajaja, está perfectamente reparado."
 
 #: system/scripts/npcs/tir/malcolm.cs:101
 msgid "Wow! It has been repaired perfectly.<br/>Yes, I'm surprised, too."
 msgstr ""
+"¡Yuuujuu! El objeto ha sido reparado perfectamente.<br/>Si, yo también estoy "
+"sorprendido."
 
 #: system/scripts/npcs/tir/malcolm.cs:105
 #, csharp-format
 msgid "{0} point repaired.<br/>"
 msgid_plural "{0} points repaired.<br/>"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{0} punto reparado.<br/>"
+msgstr[1] "{0} puntos reparados.<br/>"
 
 #: system/scripts/npcs/tir/malcolm.cs:106
 #, csharp-format
 msgid "Unfortunately, I have failed in repairing {0} point"
 msgid_plural "Unfortunately, I have failed in repairing {0} points"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Desafortunadamente, he fallado en reparar {0} punto"
+msgstr[1] "Desafortunadamente, he fallado en reparar {0} puntos"
 
 #: system/scripts/npcs/tir/malcolm.cs:111
 msgid ""
@@ -20561,6 +20581,9 @@ msgid ""
 "Lymilark,<br/>you can reduce abrasion which means<br/>your item will wear "
 "off more slowly over time.<repair hide='true'/>"
 msgstr ""
+"Permite que te de un consejo.<br/>Si bendices un objeto con Agua Bendita de "
+"Lymilark,<br/>podrás reducir las posibilidades de perder un objeto.<repair "
+"hide='true'/>"
 
 #: system/scripts/npcs/tir/malcolm.cs:124
 msgid "I run this General Shop. I sell various goods."
@@ -20991,11 +21014,11 @@ msgstr ""
 
 #: system/scripts/npcs/tir/meven.cs:22
 msgid "Lymilark must have led you here."
-msgstr ""
+msgstr "Lymilark debió guiarte hasta aquí."
 
 #: system/scripts/npcs/tir/meven.cs:23
 msgid "It's nice to see you again."
-msgstr ""
+msgstr "Que bueno es verte nuevamente."
 
 #: system/scripts/npcs/tir/meven.cs:25
 msgid "Ah, I forgot I have some plowing to do."
@@ -21493,36 +21516,37 @@ msgstr ""
 
 #: system/scripts/npcs/tir/nora.cs:24
 msgid "We've met before, right? I remember you!"
-msgstr ""
+msgstr "Nos hemos visto antes ¿Verdad?<br/>¡Yo me acuerdo de ti!"
 
 #: system/scripts/npcs/tir/nora.cs:27
 msgid "I hope the clothes dry quickly."
-msgstr ""
+msgstr "Espero que la ropa termine de secarse pronto."
 
 #: system/scripts/npcs/tir/nora.cs:28
 msgid ""
 "I would love to listen to some music, but I don't see any musicians around."
 msgstr ""
+"Me encantaría escuchar algo de música, pero no veo ningún músico alrededor."
 
 #: system/scripts/npcs/tir/nora.cs:29
 msgid "No way! There's no such thing as a huge spider."
-msgstr ""
+msgstr "¡Imposible! No existe tal cosa como una araña gigante."
 
 #: system/scripts/npcs/tir/nora.cs:30
 msgid "Oh no! Rats!"
-msgstr ""
+msgstr "¡Oh no, Ratas!"
 
 #: system/scripts/npcs/tir/nora.cs:31
 msgid "Perhaps I should consider taking a day off."
-msgstr ""
+msgstr "Quizás debería considerar tomar un día libre."
 
 #: system/scripts/npcs/tir/nora.cs:33
 msgid "Wait a second."
-msgstr ""
+msgstr "Espera un momento."
 
 #: system/scripts/npcs/tir/nora.cs:34
 msgid "Wow! Look at that owl! Beautiful!"
-msgstr ""
+msgstr "¡Mira esa lechuza, es hermosa!"
 
 #: system/scripts/npcs/tir/nora.cs:43
 msgid ""
@@ -21533,6 +21557,12 @@ msgid ""
 "she engages in some chore or another, though she often looks into the "
 "distance as if deep in thought."
 msgstr ""
+"Una chica vestida con un delantal verde bien planchado se inclina hacia "
+"adelante mirando alegremente a su alrededor.<br/>Sus ojos son celestes y sus "
+"labios juegan una leve sonrisa.<br/>Pendientes en forma de cruz cuelgan de "
+"sus orejas, bailando alegremente entre sus cabellos color miel.<br/>Aunque "
+"usualmente mira a la distancia como sumida en sus pensamientos,<br/>Sus "
+"manos parecen estar siempre ocupadas."
 
 #: system/scripts/npcs/tir/nora.cs:54
 msgid ""
@@ -21551,6 +21581,8 @@ msgid ""
 "Are you looking for a Tailoring Kit and materials?<br/>If so, you've come to "
 "the right place."
 msgstr ""
+"¿Buscas un Kit de Sastrería y materiales?<br/>Si es así, haz llegado al "
+"lugar indicado."
 
 #: system/scripts/npcs/tir/nora.cs:66
 msgid ""
@@ -21559,36 +21591,43 @@ msgid ""
 "to a professional tailor.<repair rate='94' stringid='(*/cloth/*)|(*/glove/*)|"
 "(*/bracelet/*)|(*/shoes/*)|(*/headgear/*)|(*/robe/*)|(*/headband/*)' />"
 msgstr ""
+"¿Quieres reparar tus ropas?<br/>Bueno, no puedo decir que soy perfecta en "
+"eso,<br/>pero haré lo mejor que pueda.<br/>Solo en caso de que lo dudes, "
+"siempre puedes acudir a un sastre profesional.<repair rate='94' stringid='(*/"
+"cloth/*)|(*/glove/*)|(*/bracelet/*)|(*/shoes/*)|(*/headgear/*)|(*/robe/*)|(*/"
+"headband/*)' />"
 
 #: system/scripts/npcs/tir/nora.cs:79
 msgid "Do you have enough Gold?"
-msgstr ""
+msgstr "¿No tienes suficiente oro?"
 
 #: system/scripts/npcs/tir/nora.cs:88
 msgid "The repair is done."
-msgstr ""
+msgstr "La reparación está lista."
 
 #: system/scripts/npcs/tir/nora.cs:89
 msgid "I'm sorry, but you need to pay more to repair that."
-msgstr ""
+msgstr "Lo siento, pero necesitar pagar más para reparar eso."
 
 #: system/scripts/npcs/tir/nora.cs:90
 msgid ""
 "Yes, it's my side job, but it certainly is a job.<br/>If you don't have "
 "enough money, I can't repair it."
 msgstr ""
+"Si, es mi segundo trabajo, pero sigue siendo un trabajo.<br/>Si no tienes "
+"suficiente dinero, no puedo repararlo."
 
 #: system/scripts/npcs/tir/nora.cs:99
 msgid "It's as good as new!"
-msgstr ""
+msgstr "¡Ha quedado como nuevo!"
 
 #: system/scripts/npcs/tir/nora.cs:100
 msgid "Perfect repair! Done!"
-msgstr ""
+msgstr "¡Listo… Reparación perfecta!"
 
 #: system/scripts/npcs/tir/nora.cs:101
 msgid "What a surprise! It's repaired perfectly."
-msgstr ""
+msgstr "¡Que sorpresa, el objeto está perfectamente reparado!"
 
 #: system/scripts/npcs/tir/nora.cs:104
 #, csharp-format
@@ -21599,7 +21638,11 @@ msgid_plural ""
 "I hoped for a perfect repair, but there were some mistakes.<br/>The object "
 "lost {0} points. You won't be too hard on me, right?<br/>"
 msgstr[0] ""
+"Pretendía reparar perfectamente… pero cometí un error.<br/>El objeto perdió "
+"{0} punto. ¿No te molestarás conmigo, verdad?"
 msgstr[1] ""
+"Pretendía reparar perfectamente… pero cometí algunos errores.<br/>El objeto "
+"perdió {0} puntos. ¿No te molestarás conmigo, verdad?"
 
 #: system/scripts/npcs/tir/nora.cs:108
 msgid ""
@@ -21607,10 +21650,13 @@ msgid ""
 "<br/>just like a knife becomes dull over time.<br/>Well, come again!<repair "
 "hide='true'/>"
 msgstr ""
+"Si llevas ropa puesta y la descuidas por mucho,<br/>eventualmente se va a "
+"estropear,<br/>al igual que una navaja que pierde filo con el tiempo.<repair "
+"hide='true'/>"
 
 #: system/scripts/npcs/tir/nora.cs:122
 msgid "My name is <npcname/>. Please don't forget it."
-msgstr ""
+msgstr "Mi nombre es <npcname/>. Por favor no lo olvides."
 
 #: system/scripts/npcs/tir/nora.cs:127
 msgid ""
@@ -22502,27 +22548,27 @@ msgstr ""
 #: system/scripts/npcs/tir/piaras.cs:334 system/scripts/npcs/tir/piaras.cs:335
 #: system/scripts/npcs/tir/piaras.cs:336
 msgid "Book"
-msgstr ""
+msgstr "Libro"
 
 #: system/scripts/npcs/tir/ranald.cs:24
 msgid "I need a drink..."
-msgstr ""
+msgstr "Necesito un trago…"
 
 #: system/scripts/npcs/tir/ranald.cs:25
 msgid "I guess I drank too much last night..."
-msgstr ""
+msgstr "Supongo que bebí demasiado anoche…"
 
 #: system/scripts/npcs/tir/ranald.cs:26
 msgid "I need a nap..."
-msgstr ""
+msgstr "Necesito una siesta…"
 
 #: system/scripts/npcs/tir/ranald.cs:27
 msgid "I should drink in moderation..."
-msgstr ""
+msgstr "Debería beber con moderación…"
 
 #: system/scripts/npcs/tir/ranald.cs:28
 msgid "I should sharpen my blade later."
-msgstr ""
+msgstr "Debería afilar mi espada."
 
 #: system/scripts/npcs/tir/ranald.cs:29
 msgid "It's really dusty here."
@@ -23107,47 +23153,49 @@ msgstr ""
 
 #: system/scripts/npcs/tir/trefor.cs:26
 msgid "(Fart)..."
-msgstr ""
+msgstr "(Pedo)…"
 
 #: system/scripts/npcs/tir/trefor.cs:28
 msgid "Ah-choo!"
-msgstr ""
+msgstr "¡Achís!"
 
 #: system/scripts/npcs/tir/trefor.cs:29
 msgid "Ahem"
-msgstr ""
+msgstr "Ejem…"
 
 #: system/scripts/npcs/tir/trefor.cs:30
 msgid "Burp."
-msgstr ""
+msgstr "(Eructo)…"
 
 #: system/scripts/npcs/tir/trefor.cs:31
 msgid "Cough cough..."
-msgstr ""
+msgstr "Cof, cof…"
 
 #: system/scripts/npcs/tir/trefor.cs:32
 msgid "I heard people can go bald when they wear a helmet for too long..."
 msgstr ""
+"Se dice que la gente puede terminar calva si llevan un casco por mucho "
+"tiempo…"
 
 #: system/scripts/npcs/tir/trefor.cs:33
 msgid "I need to get married..."
-msgstr ""
+msgstr "Necesito casarme…"
 
 #: system/scripts/npcs/tir/trefor.cs:34
 msgid "It's been a while since I took a shower"
-msgstr ""
+msgstr "Ya olvide la última vez que tome una ducha"
 
 #: system/scripts/npcs/tir/trefor.cs:35
 msgid "Seems like I caught a cold..."
-msgstr ""
+msgstr "Parece que me pesque un resfiado…"
 
 #: system/scripts/npcs/tir/trefor.cs:36
 msgid "Soo itchy... and I can't scratch it!"
-msgstr ""
+msgstr "Valla picazón… ¡Y no me puedo rascar!"
 
 #: system/scripts/npcs/tir/trefor.cs:37
 msgid "This helmet's really making me sweat"
-msgstr ""
+msgstr "Este casco realmente me hace sudar"
 
 #: system/scripts/npcs/tir/trefor.cs:42
 msgid ""
@@ -23160,18 +23208,25 @@ msgid ""
 "helmet. His tightly pursed lips seem to belie his desire to not shot any "
 "emotion."
 msgstr ""
+"Un espécimen único y de gran aptitud física, lleva una armadura bien pulida "
+"que se ajusta estrechamente a los contornos de su cuerpo.<br/>Una espada de "
+"longitud media cuelga delicadamente de la funda en su cintura.<br/>Aunque es "
+"sin duda un espectáculo para la vista, es difícil apreciar su rostro debido "
+"al casco que lleva.<br/>De vez en cuando, la luz entra por las hendiduras de "
+"su casco y se pueden ver sus labios fuertemente apretados, los que parecen "
+"contradecir su deseo de no mostrar emoción alguna."
 
 #: system/scripts/npcs/tir/trefor.cs:44
 msgid "Get Alby Beginner Dungeon Pass"
-msgstr ""
+msgstr "Pedir pase de Novato para Mazmorra Alby"
 
 #: system/scripts/npcs/tir/trefor.cs:49
 msgid "Hmm? Are you a new traveler?"
-msgstr ""
+msgstr "¿Hmm, eres un nuevo viajero?"
 
 #: system/scripts/npcs/tir/trefor.cs:55
 msgid "Do you need a Quest Scroll?"
-msgstr ""
+msgstr "¿Necesitas un Pergamino de Misión?"
 
 #: system/scripts/npcs/tir/trefor.cs:60
 msgid ""
@@ -23180,20 +23235,27 @@ msgid ""
 "that the number of times it can be modified, as well as the types of "
 "modifications available depend on the item, right?"
 msgstr ""
+"¿Quieres modificar un objeto?<br/>No necesitas llegar tan lejos; yo lo haré "
+"por ti. Selecciona el objeto que deseas que modifique.<br/>Estoy seguro que "
+"sabes el numero de veces que un objeto puede ser modificado, como también "
+"los tipos de modificaciones dependiendo del objeto, ¿verdad?"
 
 #: system/scripts/npcs/tir/trefor.cs:66
 msgid "Recieved Alby Beginner Dungeon Pass from Trefor"
-msgstr ""
+msgstr "Trefor te ha dado un pase de novato para la Mazmorra Alby"
 
 #: system/scripts/npcs/tir/trefor.cs:67
 msgid ""
 "Do you need an Alby Beginner Dungeon Pass?<br/>No problem. Here you go.<br/"
 ">Drop by anytime when you need more.<br/>I'm a generous man, ha ha."
 msgstr ""
+"¿Necesitas un pase para entrar al la Mazmorra Alby?<br/>No hay problema, "
+"aquí tienes.<br/>Ven a visitarme siempre que necesites más de esos.<br/>Soy "
+"un hombre bastante generoso jajaja."
 
 #: system/scripts/npcs/tir/trefor.cs:71
 msgid "Goodbye, Trefor. I'll see you later!"
-msgstr ""
+msgstr "¡Hasta pronto Trefor!"
 
 #: system/scripts/npcs/tir/trefor.cs:79
 msgid ""
@@ -23201,6 +23263,9 @@ msgid ""
 "this town.<br/>I am but a humble servant of Lymirark, whose duty is to "
 "protect this town."
 msgstr ""
+"Hmm… ¿Tienes alguna pregunta para mi?<br/>No soy nada pero un sujeto "
+"cualquiera en está ciudad.<br/>También soy un humilde sirviente de Lymirark, "
+"cuyo deber es proteger ésta ciudad."
 
 #: system/scripts/npcs/tir/trefor.cs:84
 msgid ""
@@ -25183,14 +25248,18 @@ msgid ""
 "of Cobweb from the Graveyard, please. Do not forget to use the ALT key in "
 "picking them up. - Malcolm -"
 msgstr ""
+"Hola. Te habla Malcolm de la tienda general en Tir Chonaill. Necesito "
+"algunas telarañas para un trabajo. ¿Me podrías ayudar? Solo debes tomar 5 "
+"piezas de telaraña en el Cementerio. No olvides usar la tecla ALT para que "
+"recoger sea más fácil.  - Malcolm -"
 
 #: system/scripts/quests/beginner_uladh/202034_gather_cobweb.cs:18
 msgid "Convey 5 pieces of Cobweb to Malcolm"
-msgstr ""
+msgstr "Entrega 5 piezas de telaraña a Malcolm"
 
 #: system/scripts/quests/beginner_uladh/202034_gather_cobweb.cs:34
 msgid "(Missing dialog: Appreciation for getting the cobweb)"
-msgstr ""
+msgstr "(Dialogo no programado: Apreciación por obtener telaraña)"
 
 #: system/scripts/quests/beginner_uladh/202035_sheep_shearing.cs:12
 msgid "Sheep-shearing"
@@ -25206,6 +25275,13 @@ msgid ""
 "sheep with bare hands, that'll be the end for all of us. - Deian the "
 "Shepherd Boy -"
 msgstr ""
+"Oh… estoy realmente aburrido. Quien sea que vea éste mensaje, por favor que "
+"venga a pasar un rato conmigo. Soy un apuesto y solitario pastor de ovejas "
+"que no tiene nada más que hacer. Necesito esquilar algo de lana, pero es muy "
+"aburrido. ¡Necesito desesperadamente que alguien haga esto por mi! Oh… "
+"recuerda traer un cuchillo para poder esquilar. Si intentas sacar la lana de "
+"las ovejas con tus manos, será el fin para todos nosotros. - Deian, el niño "
+"Pastor -"
 
 #: system/scripts/quests/beginner_uladh/202035_sheep_shearing.cs:19
 msgid "Deliver 5 bundles of wool to Deian"
@@ -25220,6 +25296,8 @@ msgid ""
 "Did you bring a gathering knife? I don't seem to<br/>have any extra around "
 "here. If you didn't you'll need<br/>to go see Ferghus about that!"
 msgstr ""
+"¿Trajiste un cuchillo recolector? No creo tener alguno extra por aquí.<br/"
+">Si no trajiste uno, necesitarás comprar uno a Ferghus."
 
 #: system/scripts/quests/beginner_uladh/202035_sheep_shearing.cs:36
 msgid ""
@@ -25228,6 +25306,10 @@ msgid ""
 ">the other. Easy right? Hehe, well why do you think I don't want to do it?"
 "<br/>Can you gather five bundles of wool for me?"
 msgstr ""
+"Vale, solo debes sostener gentilmente el cuchillo en una de tus manos<br/>y "
+"sacar un trozo de lana con la otra mano. ¿Fácil no?<br/>Jeje, bueno ¿Por qué "
+"crees que no quiero hacerlo yo mismo?…<br/>¿Podrías recolectar 5 piezas de "
+"lana para mi?"
 
 #: system/scripts/quests/beginner_uladh/202035_sheep_shearing.cs:44
 msgid ""
@@ -25235,6 +25317,9 @@ msgid ""
 "<br/>These bundles of wool will help me out the rest of the day.<br/>Come by "
 "again if you ever want to get more wool!"
 msgstr ""
+"¡Muchas, muchas gracias! Debes saberlo amigo, pero te ves muy natural con "
+"ese cuchillo.<br/>Esta lana me servirá para el resto del día.<br/>¡Ven a "
+"visitarme si algún día quieres conseguir más lana!"
 
 #: system/scripts/quests/beginner_uladh/202040_mine_lumps_of_iron_ore.cs:12
 msgid "Mine Lumps of Iron Ore"
