@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Hispanogi\n"
 "POT-Creation-Date: 2016-03-16 12:40-0400\n"
-"PO-Revision-Date: 2016-03-21 11:44-0300\n"
+"PO-Revision-Date: 2016-03-21 17:48-0300\n"
 "Last-Translator: Arufonsu\n"
 "Language-Team: \n"
 "Language: es\n"
@@ -21569,12 +21569,17 @@ msgid ""
 "<username/>, the Guardian of Erinn?<br/>Perfect timing.<br/>Rats keep "
 "appearing around town...<br/>Can you kill them for us?"
 msgstr ""
+"¿<username/>, el guardian de Erinn?<br/>Justo a tiempo jajaja…<br/>Esas "
+"ratas siguen apareciendo alrededor de la ciudad…<br/>¿Podrías deshacerte de "
+"ellas?"
 
 #: system/scripts/npcs/tir/nora.cs:55
 msgid ""
 "Malcom at the General Shop<br/>is so scared that he won't even step "
 "outside..."
 msgstr ""
+"Malcom, el chico de la tienda general<br/>está tan asustado que no pone un "
+"pie fuera de su tienda…"
 
 #: system/scripts/npcs/tir/nora.cs:61
 msgid ""
@@ -21607,7 +21612,7 @@ msgstr "La reparación está lista."
 
 #: system/scripts/npcs/tir/nora.cs:89
 msgid "I'm sorry, but you need to pay more to repair that."
-msgstr "Lo siento, pero necesitar pagar más para reparar eso."
+msgstr "Lo siento, pero necesitas pagar más para reparar eso."
 
 #: system/scripts/npcs/tir/nora.cs:90
 msgid ""
